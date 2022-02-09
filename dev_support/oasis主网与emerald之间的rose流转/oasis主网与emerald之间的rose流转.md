@@ -33,15 +33,15 @@ https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpg
 
 打开插件版钱包（假设已经使用Oasis钱包登陆），点击右下角设置，如图所示，可以切换成中文版本
 
-![image](dev_support/oasis主网与emerald之间的rose流转/emerald_rose_2.png)
+![image](./emerald_rose_2.png)
 
 点击底栏“ParaTimes”，查看第一个ParaTime，即Emerald，点击“发送到Emerald”
 
-![image](dev_support/oasis主网与emerald之间的rose流转/emerald_rose_3.png)
+![image](./emerald_rose_3.png)
 
 输入Eth钱包地址，以及想要转移到Emerald的Rose数量
 
-![image](dev_support/oasis主网与emerald之间的rose流转/emerald_rose_4.png)
+![image](./emerald_rose_4.png)
 
 点击下方“下一步”，等待提示完成，即完成了从Oasis转移到Emerald的过程。
 
@@ -58,7 +58,7 @@ ID:42262
 
 添加后，在钱包内可以看到刚转入的Rose
 
-![image](dev_support/oasis主网与emerald之间的rose流转/emerald_rose_5.png)
+![image](./emerald_rose_5.png)
 
 # 五、从Emerald转移Rose到Oasis
 
@@ -66,30 +66,30 @@ ID:42262
 
 在oasis钱包的右上角，点击切换账号
 
-![image](dev_support/oasis主网与emerald之间的rose流转/emerald_rose_6.png)
+![image](./emerald_rose_6.png)
 
 选择导入
 
-![image](dev_support/oasis主网与emerald之间的rose流转/emerald_rose_7.png)
+![image](./emerald_rose_7.png)
 
 选择兼容以太坊的钱包（即0x开头）
 
-![image](dev_support/oasis主网与emerald之间的rose流转/emerald_rose_8.png)
+![image](./emerald_rose_8.png)
 
 导入成功后，选择此钱包
 
 注意：此时兼容钱包会显示如下图红框中的两个地址，分别以oasis和0x开头。千万不要从交易所及主网将rose转移到此oasis开头的地址！
 
-![image](dev_support/oasis主网与emerald之间的rose流转/emerald_rose_9.png)
+![image](./emerald_rose_9.png)
 
 回到主界面，就发现变了样。
 
-![image](dev_support/oasis主网与emerald之间的rose流转/emerald_rose_10.png)
+![image](./emerald_rose_10.png)
 
 同样切换到ParaTimes，这次选择“发送到Consensus”
 
-![image](dev_support/oasis主网与emerald之间的rose流转/emerald_rose_11.png)
+![image](./emerald_rose_11.png)
 
 输入Oasis钱包地址，点击下一步，等待完成后查看一下钱包是否到账，搞定！
 
-![image](dev_support/oasis主网与emerald之间的rose流转/emerald_rose_12.png)
+![image](./emerald_rose_12.png)
