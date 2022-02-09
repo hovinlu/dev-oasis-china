@@ -12,20 +12,22 @@ YuzuSwap是建立在Emerald上的去中心化交易所，可实现跨链的代�
 
 本文写于20220109，随着生态及的发展，可能会有更便捷的转移操作。
 
-20220208修正：如从Emerald直接转到币安等交易所时发生问题，可以从官网 https://www.oasisscan.com/ 查询交易所收款地址的交易记录，依据时间/金额等进行查找对应的txHash。也可进入官方中文群组https://t.me/oasisnetworkchina 寻求帮助。
+20220208修正：如从Emerald直接转到币安等交易所时发生问题，可以从官网 [https://www.oasisscan.com/](https://www.oasisscan.com) 查询交易所收款地址的交易记录，依据时间/金额等进行查找对应的txHash。也可进入官方中文群组[https://t.me/oasisnetworkchina](https://t.me/oasisnetworkchina) 寻求帮助。
 
 # 二、准备
 
-1、Oasis插件（Chrome浏览器）https://chrome.google.com/webstore/detail/oasis-wallet/ppdadbejkmjnefldpcdjhnkpbjkikoip?hl=zh-CN
+1、Oasis插件（Chrome浏览器）
+
+[https://chrome.google.com/webstore/detail/oasis-wallet/ppdadbejkmjnefldpcdjhnkpbjkikoip?hl=zh-CN](https://chrome.google.com/webstore/detail/oasis-wallet/ppdadbejkmjnefldpcdjhnkpbjkikoip?hl=zh-CN)
 
 2、Oasis钱包地址（以oasis开头）
 如果没有创建过Oasis钱包，可在以下官方Web钱包上创建一个（上一条的插件钱包也可）
 
-https://wallet.oasisprotocol.org/
+[https://wallet.oasisprotocol.org/](https://wallet.oasisprotocol.org/)
 
 3、Metamask插件（Chrome浏览器）（用于查看Emerald网络里的Rose）
 
-https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=zh-CN
+[https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=zh-CN](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=zh-CN)
 
 3、Eth钱包地址（以0x开头）
 
