@@ -5,6 +5,40 @@ Oasis为隐私公链，原生代币为Rose，截止20220209日，Rose暂未在�
 * Emerald（Oasis公链上的Paratime之一，）
 * 币安等中心化交易所
 
+Emerald RPC地址
+
+```
+主网名称：Emerald Mainnet
+RPC URL：https://emerald.oasis.dev/
+ID:42262
+代币：ROSE
+```
+
+# 钱包
+
+1、Oasis插件钱包（Chrome浏览器）
+
+[https://chrome.google.com/webstore/detail/oasis-wallet/ppdadbejkmjnefldpcdjhnkpbjkikoip?hl=zh-CN](https://chrome.google.com/webstore/detail/oasis-wallet/ppdadbejkmjnefldpcdjhnkpbjkikoip?hl=zh-CN)
+
+2、Oasis web钱包
+
+[https://wallet.oasisprotocol.org/](https://wallet.oasisprotocol.org/)
+
+3、Metamask插件钱包（Chrome浏览器）（用于查看Emerald网络里的Rose）
+
+[https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=zh-CN](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=zh-CN)
+
+4、App
+
+bitpie钱包支持Oasis主网，MetaMask可添加Emerald
+
+# 质押（待补）
+
+1、主网钱包质押
+
+2、交易所质押
+
+
 # 跨链桥
 
 依据Emerald的EVM特性，现已通过[wormhole Bridge](https://portalbridge.com/#/transfer)、[cBridge](https://cbridge.celer.network/#/transfer)实现跨链转移部分代币。
@@ -28,6 +62,7 @@ FTM: 0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52
 待补
 
 # NFT
+
 Oasis首个nft [MetaMirror](https://auth3.network/metamirror/ai-rose/)
 
 待补
