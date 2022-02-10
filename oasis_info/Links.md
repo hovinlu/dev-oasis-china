@@ -28,6 +28,14 @@ https://medium.com/@OasisNetworkCN/oasis-%E4%BF%9D%E5%A7%86%E7%BA%A7%E5%85%A5%E9
 
 [Emerald 链上浏览器](https://explorer.emerald.oasis.dev/)
 
+[官方开发 Github](https://github.com/oasisprotocol)
+
+[DappRadar](https://dappradar.com/rankings/protocol/oasis) --查看Oasisi链上的顶级Dapp
+
+[yuzu代币价格K线图](https://dexscreener.com/oasisemerald/0x941494a56164ea04d79f9867dddb0dd754a625cc)
+
 # 三、其他资料
 
 [深度报告：Oasis Labs](https://mp.weixin.qq.com/s/X4PPDye5yc3Qad80O0suDg) --头等仓区块链研究院 2020-10-11 20:00
+
+[Defi Mooc课程](https://defi-learning.org/) --本课程的目的是将计算机科学和金融领域的学生和跨学科专家聚集在一起，讨论去中心化金融（或 DeFi）的新兴领域。[DefiMooc中文翻译组](https://space.bilibili.com/1522784883) --由Vic TALK组建的DAO出品。
