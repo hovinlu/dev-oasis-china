@@ -21,9 +21,11 @@
  
 - 生态参与
 
-  - [Oasis总览.md](./ecosystem_paticipate/Oasis总览.md)
+  - [Oasis总览](./ecosystem_paticipate/Oasis总览.md)
 
 - Oasis资讯
+
+  - [相关链接](./oasis_info/Links.md)
 
 ------
 
