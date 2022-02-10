@@ -1,39 +1,35 @@
 # Summary
 
-### 第一部分
-
 * [简介](README.md)
 
 ------
 
 
 
-### 第二部分
+### 技术支持
 
-- 技术支持
+- 概览
+- [Emerald提币到交易所失败的解决方法](./dev_support/Emerald提币到币安失败解决方法.md)
+- [oasis主网与emerald之间的rose流转](./dev_support/oasis主网与emerald之间的rose流转/oasis主网与emerald之间的rose流转.md)
+- FAQ
 
-  - [Emerald提币到交易所失败的解决方法](./dev_support/Emerald提币到币安失败解决方法.md)
+### 生态参与
 
-  - [oasis主网与emerald之间的rose流转](./dev_support/oasis主网与emerald之间的rose流转/oasis主网与emerald之间的rose流转.md)
+- [生态概览](./ecosystem_paticipate/Oasis总览.md)
 
- 
-- 生态参与
+- DEX
 
-  - [Oasis总览](./ecosystem_paticipate/Oasis总览.md)
+  - YuzuSwap
+  
+    - [YuzuSwap介绍](ecosystem_paticipate/dex/yuzuswap/YuzuSwap介绍.md)
 
-  - DEX
+- NFT
 
-    - YuzuSwap
-    
-      - [YuzuSwap介绍](ecosystem_paticipate/dex/yuzuswap/YuzuSwap介绍.md)
+- 跨链桥
 
-  - NFT
+  - [Wormole简介及教程](ecosystem_paticipate/bridge/wormhole/Wormhole简介及教程.md)
 
-  - 跨链桥
-
-    - [Wormole简介及教程](ecosystem_paticipate/bridge/wormhole/Wormhole简介及教程.md)
-
-- Oasis资讯
+### Oasis资讯
 
 
 
@@ -41,7 +37,7 @@
 
 
 
-### 第三部分
+### 相关链接
 
 
 - [相关链接](./oasis_info/Links.md)
