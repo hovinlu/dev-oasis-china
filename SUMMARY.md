@@ -21,6 +21,18 @@
 
   - [Oasis总览](./ecosystem_paticipate/Oasis总览.md)
 
+  - [DEX]
+
+    - [YuzuSwap]
+    
+      - [YuzuSwap介绍](ecosystem_paticipate/dex/yuzuswap/YuzuSwap介绍.md)
+
+  - [NFT]
+
+  - [跨链桥]
+
+    - [Wormole简介及教程](ecosystem_paticipate/bridge/wormhole/Wormhole简介及教程.md)
+
 - Oasis资讯
 
 
