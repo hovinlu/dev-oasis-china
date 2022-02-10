@@ -1,12 +1,11 @@
 Oasis为隐私公链，原生代币为Rose，截止20220209日，Rose暂未在其他区块链上流通。
 
-# 代币流通渠道
-* Oasis公链
-* Emerald（Oasis公链上的Paratime之一，）
+Oasis分为共识层及计算层（Paratime层），Rose可在共识层及Paratime层流转。[oasis主网与emerald之间的rose流转](/dev_support/oasis主网与emerald之间的rose流转/oasis主网与emerald之间的rose流转.md)
+
+# 一、代币流通渠道
+* Oasis共识层（如官方钱包、bitpie钱包）
 * 币安等中心化交易所
-
-Emerald RPC地址
-
+* Emerald（Oasis公链上的Paratime之一）
 ```
 主网名称：Emerald Mainnet
 RPC URL：https://emerald.oasis.dev/
@@ -14,7 +13,7 @@ ID:42262
 代币：ROSE
 ```
 
-# 钱包
+# 二、钱包
 
 1、Oasis插件钱包（Chrome浏览器）
 
@@ -32,14 +31,28 @@ ID:42262
 
 bitpie钱包支持Oasis主网，MetaMask可添加Emerald
 
-# 质押（待补）
+# 三、质押
 
-1、主网钱包质押
+## 3.1、主网钱包质押
 
-2、交易所质押
+[参照此处文章](https://mp.weixin.qq.com/s?__biz=Mzg3MTUxNTI5Mg==&mid=2247484615&idx=1&sn=eedc27d12f61008a2f7caf09cda4cd13&chksm=cefc1134f98b9822ef4bc86b770bd35442113cf510d81639bed09e3dbbdf95c952be9d1052b7&scene=21#wechat_redirect)
+
+## 3.2、交易所质押
+
+以币安binance为例，打开app，首页中上部找到Staking（如不显示，可以点击“更多”），进入后输入“rose”查找对应的质押
+
+分为30天（14.12%年化）、60天（16.81%年化）、90天（23.3%年化）--20220210数据，年化会逐渐递减。
+
+每天上午9点会解锁质押份额。
+
+## 3.3、两者区别
+
+主网钱包质押，收益会在解除质押后一并返回。解除质押需要14天，这期间无收益。钱包内不同的质押节点的收益相同，但对收益会有不同的抽成（如币安节点抽成10%）；
+
+交易所质押需要抢购，收益每天自动打到现货账户，到期后自动解除质押。如需提前解除，可在48-72小时内解除成功，但会扣除“已发放”的质押收益。
 
 
-# 跨链桥
+# 四、跨链桥
 
 依据Emerald的EVM特性，现已通过[wormhole Bridge](https://portalbridge.com/#/transfer)、[cBridge](https://cbridge.celer.network/#/transfer)实现跨链转移部分代币。
 
@@ -55,14 +68,16 @@ AVAX：0x6De33698e9e9b787e09d3Bd7771ef63557E148bb
 FTM: 0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52
 ```
 
-# DEX
+# 五、DEX
 
 [yuzuswap](https://app.yuzu-swap.com/#/homepage) 可借助wormhole、cBridge实现代币跨链流通及兑换。
 
 待补
 
-# NFT
+# 六、NFT
 
-Oasis首个nft [MetaMirror](https://auth3.network/metamirror/ai-rose/)
+Oasis首个nft平台 [MetaMirror](https://auth3.network/metamirror/ai-rose/)
+
+MetaMirror建立在Emerald上，现已发行AI ROSE NFT，共999个。
 
 待补
