@@ -10,7 +10,7 @@
 
 - [技术支持概览](./dev_support/概览.md)
 - [Emerald提币到交易所失败的解决方法](./dev_support/Emerald提币到币安失败解决方法.md)
-- [Oasis主网与Emerald之间的ROSE流转](./dev_support/Oasis主网与Emerald之间的ROSE流转/Oasis主网与Emerald之间的ROSE流转.md)
+- [Oasis与Emerald之间的ROSE划转](./dev_support/Oasis与Emerald之间的ROSE划转/Oasis与Emerald之间的ROSE划转.md)
 - [FAQ](./dev_support/FAQ.md)
 
 ### 生态参与
