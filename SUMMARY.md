@@ -19,7 +19,7 @@
 
 - DEX
 
-  - [YuzuSwap介绍](ecosystem_paticipate/dex/yuzuswap/YuzuSwap介绍.md)
+  - [YuzuSwap介绍](./ecosystem_paticipate/dex/yuzuswap/YuzuSwap介绍.md)
 
 - NFT
 
