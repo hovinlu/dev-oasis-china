@@ -1,3 +1,5 @@
+# Oasis主网与Emerald之间的ROSE流转.md
+
 # 一、前言
 
 Oasis主网分为共识层及计算层，原生代币Rose存放于共识层，计算层（即ParaTime层）中用于部署各种应用，其中，Emerald（ParaTimes中的一个）提供EVM的兼容环境，因此可以实现跨链。
