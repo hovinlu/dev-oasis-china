@@ -1,4 +1,4 @@
-# Oasis主网与Emerald之间的ROSE流转.md
+# Oasis主网与Emerald之间的ROSE流转
 
 # 一、前言
 
