@@ -15,7 +15,7 @@
 
 ### 生态参与
 
-- [概览](./ecosystem_paticipate/生态总览.md)
+- [概览](./ecosystem_paticipate/概览.md)
 
 - DEX
 
@@ -29,7 +29,7 @@
 
 ### Oasis资讯
 
-- 概览
+- [概览](./oasis_info/概览.md)
 
 ------
 
