@@ -25,7 +25,7 @@
 ### Oasis资讯
 
 - [资讯概览](./oasis_info/概览.md)
-- [这是一篇测试资讯](./oasis_info/这是一篇测试资讯.md)
+- [Oasis里程碑](./oasis_info/Oasis里程碑.md)
 ------
 
 
