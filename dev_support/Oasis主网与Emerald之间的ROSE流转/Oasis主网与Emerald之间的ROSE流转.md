@@ -4,7 +4,7 @@ Oasis主网分为共识层及计算层，原生代币Rose存放于共识层，�
 
 YuzuSwap是建立在Emerald上的去中心化交易所，可实现跨链的代币交易（如下图）
 
-![image](./emerald_rose_1.png)
+![image](./Emerald_rose_1.png)
 
 如需进行Rose的交易，需要从Oasis（共识层）转移到ParaTime层（Emerald）。此文将介绍在Chrome插件钱包版中的交互操作。
 
