@@ -2,15 +2,9 @@
 
 ### 记录Oasis发展历程的大事件
 
-- 2022/02/10 [DappRadar上线Oasis页面](https://twitter.com/OasisNetwork_CN/status/1491629826540654600) - 可以在
+- 2022/02/10 [DappRadar上线Oasis页面](https://twitter.com/OasisNetwork_CN/status/1491629826540654600) - 可以在DappRadar上查看Oasis链上的顶级Dapp
 
-DappRadar上查看Oasis链上的顶级Dapp
-
-- 2022/02/09 [cBridge建立合作伙伴关系](https://twitter.com/OasisNetwork_CN/status/1491240515760984064) - Oasis 
-
-在跨链互通方面的一大突破，Oasis社区能够轻松访问其他支持 #cBridge 的区块链和第2层网络，并实现即时、低成本的跨链
-
-价值转移。
+- 2022/02/09 [cBridge建立合作伙伴关系](https://twitter.com/OasisNetwork_CN/status/1491240515760984064) - Oasis 在跨链互通方面的一大突破，Oasis社区能够轻松访问其他支持 #cBridge 的区块链和第2层网络，并实现即时、低成本的跨链价值转移。
 
 - [2022/02/07 与@BitmarkInc和@FeralFile合作](https://twitter.com/OasisNetwork_CN/status/1490700223223517189) - Oasis Parcel 将隐私计算与区块链技术相结合，为数据创建安全且保护隐私的信任层,Bitmark现在正在将 Parcel集成到其两个产品Feral File 和 Autonomy中。
 
