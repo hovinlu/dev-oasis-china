@@ -1,6 +1,6 @@
 # Oasis主网与Emerald之间的ROSE流转
 
-# 一、前言
+## 一、前言
 
 Oasis主网分为共识层及计算层，原生代币Rose存放于共识层，计算层（即ParaTime层）中用于部署各种应用，其中，Emerald（ParaTimes中的一个）提供EVM的兼容环境，因此可以实现跨链。
 
@@ -16,7 +16,7 @@ YuzuSwap是建立在Emerald上的去中心化交易所，可实现跨链的代�
 
 20220208修正：如从Emerald直接转到币安等交易所时发生问题，可以从官网 [https://www.oasisscan.com/](https://www.oasisscan.com) 查询交易所收款地址的交易记录，依据时间/金额等进行查找对应的txHash。也可进入官方中文群组[https://t.me/oasisnetworkchina](https://t.me/oasisnetworkchina) 寻求帮助。
 
-# 二、准备
+## 二、准备
 
 1、Oasis插件（Chrome浏览器）
 
@@ -33,7 +33,7 @@ YuzuSwap是建立在Emerald上的去中心化交易所，可实现跨链的代�
 
 3、Eth钱包地址（以0x开头）
 
-# 三、从Oasis转移到Emerald
+## 三、从Oasis转移到Emerald
 
 打开插件版钱包（假设已经使用Oasis钱包登陆），点击右下角设置，如图所示，可以切换成中文版本
 
@@ -49,7 +49,7 @@ YuzuSwap是建立在Emerald上的去中心化交易所，可实现跨链的代�
 
 点击下方“下一步”，等待提示完成，即完成了从Oasis转移到Emerald的过程。
 
-# 四、MetaMask添加Emerald RPC地址
+## 四、MetaMask添加Emerald RPC地址
 
 本文以MetaMask的Chrome版钱包为例（app也可同样操作）
 
@@ -64,7 +64,7 @@ ID:42262
 
 ![image](./Emerald_ROSE_5.png)
 
-# 五、从Emerald转移Rose到Oasis
+## 五、从Emerald转移Rose到Oasis
 
 注意：千万不要直接从Emerald转移到交易所的充币地址。会导致有可能无法到账。请务必先从Emerald转移到自己的Oasis钱包后，再从钱包转移到交易所充币地址。
 
