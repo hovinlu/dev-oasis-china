@@ -18,7 +18,9 @@
 - [生态参与概览](./ecosystem_paticipate/概览.md)
 - DEX
   - [YuzuSwap介绍](./ecosystem_paticipate/dex/yuzuswap/YuzuSwap介绍.md)
+  - [YuzuSwap挖矿教程](https://medium.com/@little-white/yuzu-%E6%8C%96%E7%9F%BF%E6%94%BB%E7%95%A5-f192ff18b9a1)
 - NFT
+  - [MetaMirror交易教程](https://medium.com/@little-white/%E5%A6%82%E4%BD%95%E4%BA%A4%E6%98%93ai-rose-nft-12b7a58c10d3)
 - 跨链桥
   - [Wormole简介及教程](ecosystem_paticipate/bridge/wormhole/Wormhole简介及教程.md)
   - [cBridge简介及教程](ecosystem_paticipate/bridge/cbridge/cBridge简介及教程.md)
