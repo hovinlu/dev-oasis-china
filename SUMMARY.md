@@ -21,6 +21,7 @@
 - NFT
 - 跨链桥
   - [Wormole简介及教程](ecosystem_paticipate/bridge/wormhole/Wormhole简介及教程.md)
+  - [cBridge简介及教程](ecosystem_paticipate/bridge/cbridge/cBridge简介及教程.md)
 
 ### Oasis资讯
 
