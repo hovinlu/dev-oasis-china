@@ -17,6 +17,7 @@
 ### 生态参与
 
 - [生态参与概览](./ecosystem_paticipate/概览.md)
+- [质押](./ecosystem_paticipate/质押.md)
 - DEX
   - [YuzuSwap介绍](./ecosystem_paticipate/dex/yuzuswap/YuzuSwap介绍.md)
   - [YuzuSwap挖矿教程](https://medium.com/@little-white/yuzu-%E6%8C%96%E7%9F%BF%E6%94%BB%E7%95%A5-f192ff18b9a1)
