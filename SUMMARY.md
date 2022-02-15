@@ -11,11 +11,13 @@
 - [技术支持概览](./dev_support/概览.md)
 - [Emerald提币到交易所失败的解决方法](./dev_support/Emerald提币到币安失败解决方法.md)
 - [Oasis与Emerald之间的ROSE划转](./dev_support/Oasis与Emerald之间的ROSE划转/Oasis与Emerald之间的ROSE划转.md)
+- [BitPie钱包转移到官方钱包](./dev_support/BitPie钱包转移到官方钱包.md)
 - [FAQ](./dev_support/FAQ.md)
 
 ### 生态参与
 
 - [生态参与概览](./ecosystem_paticipate/概览.md)
+- [质押](./ecosystem_paticipate/质押.md)
 - DEX
   - [YuzuSwap介绍](./ecosystem_paticipate/dex/yuzuswap/YuzuSwap介绍.md)
   - [YuzuSwap挖矿教程](https://medium.com/@little-white/yuzu-%E6%8C%96%E7%9F%BF%E6%94%BB%E7%95%A5-f192ff18b9a1)
