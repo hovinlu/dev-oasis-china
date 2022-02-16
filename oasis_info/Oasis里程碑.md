@@ -4,6 +4,8 @@
 
 ## 2022
 
+- [2022/02/16 跨链协议 Multichain 宣布已集成隐私计算网络 Oasis Network。](https://www.chaincatcher.com/article/2070174) - Multichain 现已支持 Oasis Network 与以太坊之间的五种资产（ ETH、WBTC、USDT、USDC、DAI）， Oasis Network 与 BSC 之间的两种资产（BUSD、BNB ）的跨链转账功能。
+
 - [2022/02/10 DappRadar上线Oasis页面](https://twitter.com/OasisNetwork_CN/status/1491629826540654600) - 可以在DappRadar上查看Oasis链上的顶级Dapp
 
 - [2022/02/09 Oasis Garden上线](https://twitter.com/OasisProtocol/status/1491110616542871552) - [Oasis Garden](https://oasisrose.garden/) 你的一站式商店，你快速了解Oasis社区、生态系统和网络中发生的一切重要信息的得力助手。
