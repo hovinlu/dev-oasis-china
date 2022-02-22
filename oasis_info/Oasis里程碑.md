@@ -4,6 +4,10 @@
 
 ## 2022
 
+- 2022/02/17 [WePiggy 正式上线 Oasis](https://medium.com/@OasisNetworkCN/wepiggy-%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF-oasis-%E6%8E%A8%E5%87%BA%E5%80%9F%E8%B4%B7%E5%B8%82%E5%9C%BA-%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%8E%A8%E5%8A%A8-oasis-%E5%BC%80%E6%8B%93%E6%9B%B4%E5%B9%BF%E9%98%94-defi-1bbdec9f1278) - 推出借贷市场，进一步推动 Oasis 开拓更广阔 DeFi
+
+- 2022/02/17 [Oasis-MetaMind 加速器计划首批优秀项目公布](https://medium.com/@OasisNetworkCN/oasis-metamind-%E5%8A%A0%E9%80%9F%E5%99%A8%E8%AE%A1%E5%88%92%E9%A6%96%E6%89%B9%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E5%85%AC%E5%B8%83-d814a9a18d7d) - 第一批 Oasis-MetaMind 区块链加速器计划已选出了15个优秀的项目团队，并已开始着手帮助推动项目的进一步发展。
+
 - 2022/02/16 [跨链协议 Multichain 宣布已集成隐私计算网络 Oasis Network。](https://twitter.com/OasisNetwork_CN/status/1493958265298092036) - Multichain 现已支持 Oasis Network 与以太坊之间的五种资产（ ETH、WBTC、USDT、USDC、DAI）， Oasis Network 与 BSC 之间的两种资产（BUSD、BNB ）的跨链转账功能。
 
 - 2022/02/10 [DappRadar上线Oasis页面](https://twitter.com/OasisNetwork_CN/status/1491629826540654600) - 可以在DappRadar上查看Oasis链上的顶级Dapp
