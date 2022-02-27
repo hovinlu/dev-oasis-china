@@ -13,6 +13,14 @@ BitPie 钱包与官方钱包使用相同的BIP39算法,但未使用[ARD-0008](ht
     - 从 BitPie 钱包内，导出私钥（收款-右上角-显示私钥），然后用私钥在官方钱包内打开
     - 在官方钱包内创建新的钱包，在 BitPie钱包内将 ROSE 转移到新的官方钱包地址
 
-PS：链上资产不会无故丢失，请不要惊慌。请务必保管好助记词/私钥，也需要知道不同的钱包/客户端使用的“助记词生成私钥”的算法会有所不同。
+注1：链上资产不会无故丢失，请不要惊慌。请务必保管好助记词/私钥，也需要知道不同的钱包/客户端使用的“助记词生成私钥”的算法会有所不同。
+
+注2：BitPie 钱包可以导出私钥，然后导入到 Oasis 钱包内使用。但 **BitPie 钱包不支持导入 Oasis 的私钥或助记词来在 BitPie 钱包内使用**。因此需要使用转账的方式，将 ROSE 从官方钱包，转账到 BitPie 钱包的新地址中。 
+
+注3： 官方web钱包近期出现问题，建议使用插件钱包或 BitPie 钱包
 
 更多细节，可参考[官方英文FAQ](https://docs.oasis.dev/general/manage-tokens/faq#how-can-i-export-my-bitpie-wallets-oasis-account-private-key)
+
+> 作者：moioooo
+
+> 更新：moioooo 20220227
