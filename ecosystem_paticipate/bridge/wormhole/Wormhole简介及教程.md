@@ -8,6 +8,8 @@
 
 跨链代币及合约如下（仅列举Emerald上的合约地址，源链合约地址及支持的交易所请查看[Wormhole 文档](https://docs.wormholenetwork.com/wormhole/overview-liquid-markets) )
 
+> 请万分注意，需要桥认可的代币才可以跨链后在对端使用。如 BSC 链上的 USDT，需要经过 Pancake 转换成 USDT(wormhole)代币后才可以跨链。
+
 ```
 源ETH链：
 WBTC 0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7e
