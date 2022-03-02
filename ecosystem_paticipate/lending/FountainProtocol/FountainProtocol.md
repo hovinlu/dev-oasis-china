@@ -41,12 +41,9 @@
    
    - 如果是第一次操作，需进行授权、交易共两步
    
+![](ftp1.jpg)
 
-   <img src='./ftp1.jpg' width='1000' >
-
-   <img src='./ftp2.jpg' width='1000' >
-   
-
+![](ftp2.jpg)
 
 
 ### 二、抵押借入
