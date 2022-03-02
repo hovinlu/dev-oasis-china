@@ -16,7 +16,7 @@
 
 1. #### 准备代币
 
-   代币可以为ROSE(由主网转入Emerald，或者通过YuzuSwap交易获得)、ETH\USDT\USDC(Womehole跨链桥转入)，需注意保持一定数量的ROSE作为gas。跨链后的[代币合约地址](https://dev-oasis-cn.gitbook.io/support/sheng-tai-can-yu/jie-dai/fountainprotocol#cun-ru-jie-chu-de-dai-bi-he-yue-di-zhi)见文末。
+   代币可以为ROSE(由主网转入Emerald，或者通过YuzuSwap交易获得)、ETH\USDT\USDC(Womehole跨链桥转入)，需注意保持一定数量的ROSE作为gas。跨链后的[代币合约地址](#五、代币合约地址)见文末。
 
 2. #### 连接 MetaMask 钱包
 
