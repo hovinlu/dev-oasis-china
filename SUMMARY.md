@@ -28,7 +28,7 @@
   - [cBridge简介及教程](ecosystem_paticipate/bridge/cbridge/cBridge简介及教程.md)
   - [Multichain简介](ecosystem_paticipate/bridge/Multichain/Multichain简介.md)
 - 借贷
-  - [喷泉协议 - 去中心化跨链借贷平台](ecosystem_paticipate/lending/FountainProtocol/FountainProtocol.md)
+  - [喷泉协议-去中心化跨链借贷平台](ecosystem_paticipate/lending/FountainProtocol/FountainProtocol.md)
 
 ### Oasis资讯
 
