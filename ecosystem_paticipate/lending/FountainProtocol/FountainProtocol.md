@@ -77,17 +77,27 @@
 
 ![](./ftp5.jpg)
 
+### 四、在YuzuSwap上为FTP-ROSE交易对提供流动性来获得收益
+
+> 2022/03/05 现已上线。
+> YuzuSwap挖矿教程请参照[这里](https://medium.com/@little-white/yuzu-%E6%8C%96%E7%9F%BF%E6%94%BB%E7%95%A5-f192ff18b9a1)
+
+在YuzuSwap中，添加FTP-ROSE流动对（Pool标签页），并在Liquidity Mining中质押流动对来获得挖矿的双币奖励（YUZU+FTP)
+
+
+![](./ftp6.jpg)
+
+
 
 ## 其他信息
 
-### 四、即将上线
+### 五、即将上线
 
 - 投入FTP代币获得质押奖励
-- 在YuzuSwap上为FTP-ROSE交易对提供流动性来获得收益
 - 杠杆交易：通过增加一键杠杆的功能，提供借贷的交易场景，同时为交易者提供杠杆交易服务
 - 跨链借贷：允许用户利用跨区块链的资产进行借贷活动
 
-### 五、代币合约地址
+### 六、代币合约地址
 通过Wormhole平台跨链的代币
 
 ```
