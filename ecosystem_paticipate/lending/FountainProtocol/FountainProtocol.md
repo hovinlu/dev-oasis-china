@@ -83,10 +83,13 @@
 
 > YuzuSwap挖矿教程请参照[这里](https://medium.com/@little-white/yuzu-%E6%8C%96%E7%9F%BF%E6%94%BB%E7%95%A5-f192ff18b9a1)
 
-在YuzuSwap中，添加FTP-ROSE流动对（Pool标签页），并在Liquidity Mining中质押流动对来获得挖矿的双币奖励（YUZU+FTP)
-
+在YuzuSwap中，添加FTP-ROSE流动对（Pool标签页），并在[Liquidity Mining](https://app.yuzu-swap.com/#/liquiditymining/select/-1/extselect/3)中质押流动对来获得挖矿的双币奖励（YUZU+FTP)
 
 ![](./ftp6.jpg)
+
+同时也以可在Fountain Protocol的[REWARDS](https://ftp.cash/dashboard/rewards)中查看。
+
+![](./ftp7.jpg)
 
 
 
