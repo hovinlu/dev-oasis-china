@@ -80,6 +80,7 @@
 ### 四、在YuzuSwap上为FTP-ROSE交易对提供流动性来获得收益
 
 > 2022/03/05 现已上线。
+
 > YuzuSwap挖矿教程请参照[这里](https://medium.com/@little-white/yuzu-%E6%8C%96%E7%9F%BF%E6%94%BB%E7%95%A5-f192ff18b9a1)
 
 在YuzuSwap中，添加FTP-ROSE流动对（Pool标签页），并在Liquidity Mining中质押流动对来获得挖矿的双币奖励（YUZU+FTP)
@@ -113,4 +114,4 @@ ETH:0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F
 - [Fountain Protocol官网](https://ftp.cash/home)
 
 >作者：moi 2022/03/02
->最新编辑：White 2022/03/02
+>最新编辑：moi 2022/03/05
