@@ -71,6 +71,10 @@
 
    同样，在下方可以看到已借入的代币，点击**Repay**完成还款。
 
+> Borrow APY:借款利息，需要在还款（REPAY）时一并支付
+
+> Distribution APR:借款同样会给予FTP代币奖励。
+
 ### 三、领取FTP收益
 
 在顶栏中选择**REWARDS**标签页，点击**Claim**按钮，领取存入资产所产生的收益代币FTP。
