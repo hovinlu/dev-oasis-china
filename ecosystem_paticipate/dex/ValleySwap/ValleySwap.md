@@ -33,6 +33,7 @@ Symbol: ROSE
 #### 3.通过EVODefi跨链桥转入资产
 EVODefi连接Metamask钱包, From选择Ethereum, To选择Oasis, token选择USDT 然后按照步骤往下即可, 确保以太坊账户中有足够的eth支付gas费用
 
+
 ![](valley1.jpg)
 
 
@@ -41,6 +42,7 @@ EVODefi连接Metamask钱包, From选择Ethereum, To选择Oasis, token选择USDT 
 
 #### 1.选择ROSE-USDT交易对授权
 打开Valley Swap, 连接Metamask钱包, 选择Farm，授权ROSE-USDT交易对
+
 ![](valley2.jpg)
 
 
@@ -48,6 +50,7 @@ EVODefi连接Metamask钱包, From选择Ethereum, To选择Oasis, token选择USDT 
 #### 2.添加流动性
 
 点击Add Liquidity添加流动性
+
 ![](valley3.jpg)
 
 
@@ -55,6 +58,7 @@ EVODefi连接Metamask钱包, From选择Ethereum, To选择Oasis, token选择USDT 
 #### 3.合成令牌
 
 输入对应的ROSE和USDT后选择Supply，成功后会获得LP令牌
+
 ![](valley4.jpg)
 
 
@@ -63,6 +67,7 @@ EVODefi连接Metamask钱包, From选择Ethereum, To选择Oasis, token选择USDT 
 
 #### 1.质押令牌
 质押令牌, 质押完成后则开始获得LP池收益
+
 ![](valley5.jpg)
 
 
@@ -70,6 +75,7 @@ EVODefi连接Metamask钱包, From选择Ethereum, To选择Oasis, token选择USDT 
 #### 2. 收获奖励矿币
 
 点击Havest，收获当前矿币资产存入钱包
+
 ![](valley6.jpg)
 
 
@@ -78,6 +84,7 @@ EVODefi连接Metamask钱包, From选择Ethereum, To选择Oasis, token选择USDT 
 
 #### 1. 解除质押
 点击Unstake，解除当前质押
+
 ![](valley7.jpg)
 
 
@@ -85,6 +92,7 @@ EVODefi连接Metamask钱包, From选择Ethereum, To选择Oasis, token选择USDT 
 #### 2.Remove流动性
 
 在Liquidity界面，Remove流动性即可
+
 ![](valley8.jpg)
 
 ***
