@@ -41,6 +41,7 @@
    
    - 如果是第一次操作，需进行授权、交易共两步
    
+
 ![](ftp1.jpg)
 
 ![](ftp2.jpg)
@@ -58,8 +59,9 @@
    
    点击质押按钮后，经钱包确认后即完成质押。
    
+
 ![](ftp3.jpg)
-   
+
 
 - #### 借入、还款
 
@@ -115,10 +117,10 @@ USDT:0xdC19A122e268128B5eE20366299fc7b5b199C8e3
 USDC:0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD
 ETH:0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F
 ```
-### 六、相关链接
+### 七、相关链接
 
 - [Fountain Protocol推特@fountainprot](https://twitter.com/fountainprot)
 - [Fountain Protocol官网](https://ftp.cash/home)
 
 >作者：moi 2022/03/02
->最新编辑：moi 2022/03/05
+>最新编辑：white 2022/03/10
