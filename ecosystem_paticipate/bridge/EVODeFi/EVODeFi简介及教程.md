@@ -6,35 +6,32 @@
 Oasis网络是一个具有隐私保护功能的区块链平台。目前，支持Wormhole Bridge、Multichain、CBridge、EVODeFi实现跨链转移部分代币。
 
 ## 一、EVODeFi简介： 
-EVODeFi致力于成为是下一代跨链桥，发行生态代币GENX Token和 EVODeFi 流动性挖矿奖励，打造跨链生态，项目部署在币安智能链（BEP-20）/ Polygon网络（ERC-20）。手续费：每笔交易的0.5%。支持网络：BSC 、Polygon、Cronos、Fantom、Terra、Harmony.one、Avalanche、Arbitrum、 Ethereum、HECO、 Moonriver、OKex、Tron、Solana、Bitcoin、Gnosis、Optimism、**Oasis**;
+EVODeFi致力于成为是下一代跨链桥，发行生态代币GENX Token和 EVODeFi 流动性挖矿奖励，打造跨链生态，项目部署在币安智能链（BEP-20）/ Polygon网络（ERC-20）。手续费：每笔交易的0.5%。支持网络：BSC、Polygon、Cronos、Fantom、Terra、Harmony.one、Avalanche、Arbitrum、 Ethereum、HECO、 Moonriver、OKex、Tron、Solana、Bitcoin、Gnosis、Optimism、**Oasis**;
 
-（*注意：集成BTC网络将支持BTC 跨链转账（比如币安的BTCB）；其他网络支持通常支持：USDC、USDT、ETH，其中的一个或多个资产*）
-### 例如：
+> 集成BTC网络将支持BTC 跨链转账（比如币安的BTCB）；其他网络支持通常支持：USDC、USDT、ETH，其中的一个或多个资产
+
+```
 BSC-Oasis 支持：USDC、USDT、ETH、BTCB
-
-ETH- Oasis支持：USDC、USDT、ETH、WBTC（BTC Oasis暂未提供流动性）
-
-Polygon- Oasis支持：USDC、USDT、WETH、WBTC
-
-Avalanche- Oasis支持：USDC.e、USDT、WETH
+ETH-Oasis支持：USDC、USDT、ETH、WBTC（BTC Oasis暂未提供流动性）
+Polygon-Oasis支持：USDC、USDT、WETH、WBTC
+Avalanche-Oasis支持：USDC.e、USDT、WETH
+```
 
 ## 二、Oasis桥币合约地址：
 
 转账时确保将令牌添加到钱包中，否则将无法识别。您所要做的就是在您的钱包中寻找“添加代币”选项并粘贴代币地址。 
 
 ```
-USDC :
+USDC:
 0x94fbfFe5698DB6f54d6Ca524DbE673a7729014Be
-
-USDT :
+USDT:
 0x6Cb9750a92643382e020eA9a170AbB83Df05F30B
-
 ETH:
 0xE9b38eD157429483EbF87Cf6C002cecA5fd66783
 
 ```
 
-详细请参考EVODeFi Bridge[官网](#https://docs.evodefi.com/evodefi-the-next-generation-cross-chain-bridge/evodefi-bridge/bridge-faq)
+详细请参考EVODeFi Bridge[官网](https://docs.evodefi.com/evodefi-the-next-generation-cross-chain-bridge/evodefi-bridge/bridge-faq)
 
 
 
