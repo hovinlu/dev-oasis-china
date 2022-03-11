@@ -34,7 +34,7 @@ ETH:
 
 ```
 
-详细请参考EVODeFi Bridge![官网](#https://docs.evodefi.com/evodefi-the-next-generation-cross-chain-bridge/evodefi-bridge/bridge-faq)
+详细请参考EVODeFi Bridge[官网](#https://docs.evodefi.com/evodefi-the-next-generation-cross-chain-bridge/evodefi-bridge/bridge-faq)
 
 
 
