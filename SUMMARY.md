@@ -28,6 +28,7 @@
   - [Wormole简介及教程](ecosystem_paticipate/bridge/wormhole/Wormhole简介及教程.md)
   - [cBridge简介及教程](ecosystem_paticipate/bridge/cbridge/cBridge简介及教程.md)
   - [Multichain简介](ecosystem_paticipate/bridge/Multichain/Multichain简介.md)
+  - [EVODeFi简介及教程](ecosystem_paticipate/bridge/EVODeFi/EVODeFi简介及教程.md)
 - 借贷
   - [喷泉协议-去中心化跨链借贷平台](ecosystem_paticipate/lending/FountainProtocol/FountainProtocol.md)
 
