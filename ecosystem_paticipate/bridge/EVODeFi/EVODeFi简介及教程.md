@@ -28,7 +28,6 @@ USDT:
 0x6Cb9750a92643382e020eA9a170AbB83Df05F30B
 ETH:
 0xE9b38eD157429483EbF87Cf6C002cecA5fd66783
-
 ```
 
 详细请参考EVODeFi Bridge[官网](https://docs.evodefi.com/evodefi-the-next-generation-cross-chain-bridge/evodefi-bridge/bridge-faq)
