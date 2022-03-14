@@ -4,7 +4,7 @@
 
 ## 2022
 
-- 2022/03/04 [](https://twitter.com/OasisNetwork_CN/status/1499266290246365184?s=20&t=cD34YlnVU4hmkai0jJ7Svw) - 首个跨链借贷平台 Fountain 协议已上线 Oasis 主网。
+- 2022/03/04 [首个跨链借贷平台 Fountain 协议已上线 Oasis 主网](https://twitter.com/OasisNetwork_CN/status/1499266290246365184?s=20&t=cD34YlnVU4hmkai0jJ7Svw) - Fountain协议具有杠杆交易、跨链借贷的特点。用户可以在平台上存入、借入资产并赚取利息，借款人以超额抵押的方式借款，存款人为协议提供流动性来获得被动收益。
 
 - 2022/03/02 [Oasis计划在2个月内提供超过250万美元的资金来支持OASIS网络生态中的的初创公司](https://medium.com/oasis-protocol-project/weve-offered-more-than-2-5-758bfd726af)-
 以在Oasis上构建下一代 web3 DApps
