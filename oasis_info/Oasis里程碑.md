@@ -10,7 +10,9 @@
 
 - 2022/03/02 [Oasis计划在2个月内提供超过250万美元的资金来支持OASIS网络生态中的的初创公司](https://medium.com/oasis-protocol-project/weve-offered-more-than-2-5-758bfd726af)-
 以在Oasis上构建下一代 web3 DApps
+
 - 2022/02/26 [GemKeeper加入Oasis 网络](https://medium.com/@OasisNetworkCN/gemkeeper%E5%8A%A0%E5%85%A5oasis-%E7%BD%91%E7%BB%9C-%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%8E%A8%E5%8A%A8defi%E5%8F%91%E5%B1%95-366e5be84f66) - GemKeeper DEX 支持标准 AMM 功能，通过激励 Wormhole 和 Multichain 桥接的各种代币，GemKeeper 使所有顶级第 1 层区块链中最受欢迎的加密资产能够进入 Oasis 并开始赚取收益。
+
 - 2022/02/22 [Autofarm宣布与Oasis Protocol集成](https://medium.com/autofarm-network/autofarm-integrates-with-oasis-protocol-d7b1369bc605) - Oasis生态中第一个收益聚合器
 
 - 2022/02/17 [WePiggy 正式上线 Oasis](https://medium.com/@OasisNetworkCN/wepiggy-%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF-oasis-%E6%8E%A8%E5%87%BA%E5%80%9F%E8%B4%B7%E5%B8%82%E5%9C%BA-%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%8E%A8%E5%8A%A8-oasis-%E5%BC%80%E6%8B%93%E6%9B%B4%E5%B9%BF%E9%98%94-defi-1bbdec9f1278) - 推出借贷市场，进一步推动 Oasis 开拓更广阔 DeFi
