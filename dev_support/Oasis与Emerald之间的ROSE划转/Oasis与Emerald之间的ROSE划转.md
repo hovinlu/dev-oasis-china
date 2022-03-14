@@ -64,7 +64,7 @@ ID:42262
 
 ![image](./Emerald_ROSE_5.png)
 
-## 五、从Emerald转移Rose到Oasis
+## 五、从Emerald转移ROSE到Oasis
 
 注意：千万不要直接从Emerald转移到交易所的充币地址。会导致有可能无法到账。请务必先从Emerald转移到自己的Oasis钱包后，再从钱包转移到交易所充币地址。
 
