@@ -4,7 +4,7 @@
 
 ## 2022
 
-- 2022/031/11 [Oasis Bloom黑客松来袭！](https://twitter.com/OasisNetwork_CN/status/1502090615005540352) - 在 Oasis 上构建 DeFi 或 P2E 游戏 DApp，分享200,000美元并获得 Oasis 社区、网络和生态系统的支持。
+- 2022/03/11 [Oasis Bloom黑客松来袭！](https://twitter.com/OasisNetwork_CN/status/1502090615005540352) - 在 Oasis 上构建 DeFi 或 P2E 游戏 DApp，分享200,000美元并获得 Oasis 社区、网络和生态系统的支持。
 
 - 2022/03/04 [首个跨链借贷平台 Fountain 协议已上线 Oasis 主网](https://twitter.com/OasisNetwork_CN/status/1499266290246365184?s=20&t=cD34YlnVU4hmkai0jJ7Svw) - Fountain协议具有杠杆交易、跨链借贷的特点。用户可以在平台上存入、借入资产并赚取利息，借款人以超额抵押的方式借款，存款人为协议提供流动性来获得被动收益。
 
@@ -37,9 +37,15 @@
 
 ## 2021
 
+- 2021/12/29 [MathWallet@MathWallet 支持 Oasis Emerald](https://twitter.com/OasisNetwork_CN/status/1476211417191645190) - MathWallet钱包增加对Oasis Emerald的支持
+
+- 2021/12/15 [推出了Oasis AI ROSE NFT系列](https://twitter.com/OasisNetwork_CN/status/1471003956570583041) - 该系列由MetaMirror @auth3_network平台支持，是基于Oasis网络构建的第一个 NFT 系列。
+
+- 2021/12/10 [与WormHoleCrypto@wormholecrypto建立合作伙伴关系](https://twitter.com/OasisNetwork_CN/status/1469262479423262721) - 未来通过整合Wormhole Bridge，Oasis网络上的DeFi用户和开发者可以在各大去中心化网络之间实现资产的自由流通。
+
 - 2021/12/02 [与DeFi衍生品平台@ThetaNuts建立合作伙伴关系](https://twitter.com/OasisNetwork_CN/status/1469216249993658380) - 未来ThetaNuts将为Oasis、Oasis推出的与EVM兼容的ParaTime Emerald带来结构化DeFi金融产品。
 
-- 2021/12/01 [与多链DeFi和NFT平台NFTb @nftbmarket 建立合作关系](https://twitter.com/OasisNetwork_CN/status/1466356099917832198) - 隐私计算网络Oasis与NFTb建立合作关系，实现NFT跨链互通并解决元宇宙隐私问题
+- 2021/12/01 [与多链DeFi和NFT平台NFTb @nftbmarket 建立合作关系](https://twitter.com/OasisNetwork_CN/status/1466356099917832198) - 隐私计算网络Oasis与NFTb建立合作关系，实现NFT跨链互通并解决元宇宙隐私问题。
 
 ## 2020
 
