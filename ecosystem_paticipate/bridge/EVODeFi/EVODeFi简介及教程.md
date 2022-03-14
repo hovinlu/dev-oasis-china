@@ -1,6 +1,6 @@
 # EVODeFi简介及教程
 
-**注意**：本文档由Oasis中文社区技术支持团队联合制作(非官方制作)，建议慎重操作，如有疑问，请及时进入[官方电报群](https://t.me/oasisnetworkchina)咨询。
+**注意**：此跨链桥可能存在安全问题，建议慎重操作，可以优先使用其它跨链桥，如有疑问，请及时进入[官方电报群](https://t.me/oasisnetworkchina)咨询。
 
 ## 前言：
 Oasis网络是一个具有隐私保护功能的区块链平台。目前，支持Wormhole Bridge、Multichain、CBridge、EVODeFi实现跨链转移部分代币。
