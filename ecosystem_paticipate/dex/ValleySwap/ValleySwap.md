@@ -16,7 +16,7 @@
 
 ### 一、存入资产
 #### 1、准备代币
-代币可以为ROSE(由主网转入Emerald，或者通过ValleySwap交易获得、ETH\USDT\USDC(EVODefi跨链桥转入))，需注意保持一定数量的ROSE作为gas。
+代币可以为ROSE(由主网转入Emerald，或者通过ValleySwap交易获得、ETH\USDT\USDC(EVODefi跨链桥转入))，需注意保持一定数量的ROSE作为Gas。
 
 #### 2. 连接Matemask钱包
 添加Emerald RPC
@@ -31,7 +31,7 @@ Symbol: ROSE
 在ValleySwap[官网](https://valleyswap.com/)右上角连接钱包。
 
 #### 3.通过EVODefi跨链桥转入资产
-EVODefi连接Metamask钱包, From选择Ethereum, To选择Oasis, token选择USDT 然后按照步骤往下即可, 确保以太坊账户中有足够的eth支付gas费用
+EVODefi连接Metamask钱包, From选择Ethereum, To选择Oasis, Token选择USDT, 然后按照步骤往下即可, 确保以太坊账户中有足够的ETH支付Gas费用
 
 可参考教程[EVODeFi简介及教程](ecosystem_paticipate/bridge/EVODeFi/EVODeFi简介及教程.md)
 

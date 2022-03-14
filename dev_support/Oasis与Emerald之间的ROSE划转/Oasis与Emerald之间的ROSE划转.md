@@ -2,13 +2,13 @@
 
 ## 一、前言
 
-Oasis主网分为共识层及计算层，原生代币Rose存放于共识层，计算层（即ParaTime层）中用于部署各种应用，其中，Emerald（ParaTimes中的一个）提供EVM的兼容环境，因此可以实现跨链。
+Oasis主网分为共识层及计算层，原生代币ROSE存放于共识层，计算层（即ParaTime层）中用于部署各种应用，其中，Emerald（ParaTimes中的一个）提供EVM的兼容环境，因此可以实现跨链。
 
 YuzuSwap是建立在Emerald上的去中心化交易所，可实现跨链的代币交易（如下图）
 
 ![image](./Emerald_ROSE_1.png)
 
-如需进行Rose的交易，需要从Oasis（共识层）转移到ParaTime层（Emerald）。此文将介绍在Chrome插件钱包版中的交互操作。
+如需进行ROSE的交易，需要从Oasis（共识层）转移到ParaTime层（Emerald）。此文将介绍在Chrome插件钱包版中的交互操作。
 
 提醒：转账时请先进行少量转移测试，待确认成功后再进行大额转移。
 
@@ -27,11 +27,11 @@ YuzuSwap是建立在Emerald上的去中心化交易所，可实现跨链的代�
 
 [https://wallet.oasisprotocol.org/](https://wallet.oasisprotocol.org/)
 
-3、Metamask插件（Chrome浏览器）（用于查看Emerald网络里的Rose）
+3、Metamask插件（Chrome浏览器）（用于查看Emerald网络里的ROSE）
 
 [https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=zh-CN](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=zh-CN)
 
-3、Eth钱包地址（以0x开头）
+3、ETH钱包地址（以0x开头）
 
 ## 三、从Oasis转移到Emerald
 
@@ -43,7 +43,7 @@ YuzuSwap是建立在Emerald上的去中心化交易所，可实现跨链的代�
 
 ![image](./Emerald_ROSE_3.png)
 
-输入Eth钱包地址，以及想要转移到Emerald的Rose数量
+输入ETH钱包地址，以及想要转移到Emerald的ROSE数量
 
 ![image](./Emerald_ROSE_4.png)
 
@@ -60,7 +60,7 @@ ID:42262
 代币：ROSE
 ```
 
-添加后，在钱包内可以看到刚转入的Rose
+添加后，在钱包内可以看到刚转入的ROSE
 
 ![image](./Emerald_ROSE_5.png)
 
@@ -82,7 +82,7 @@ ID:42262
 
 导入成功后，选择此钱包
 
-注意：此时兼容钱包会显示如下图红框中的两个地址，分别以oasis和0x开头。千万不要从交易所及主网将rose转移到此oasis开头的地址！
+注意：此时兼容钱包会显示如下图红框中的两个地址，分别以oasis和0x开头。千万不要从交易所及主网将ROSE转移到此Oasis开头的地址！
 
 ![image](./Emerald_ROSE_9.png)
 

@@ -6,7 +6,7 @@
 
 [Wormhole跨链操作](https://medium.com/@OasisNetworkCN/yuzuswap%E6%93%8D%E4%BD%9C%E6%95%99%E7%A8%8B-oasis%E7%94%9F%E6%80%81%E9%A6%96%E4%B8%AAdex%E4%B8%8A%E7%BA%BF-%E8%B5%A2%E5%8F%96%E4%B8%B0%E5%AF%8C%E5%A5%96%E5%8A%B1-9cb5fbbfe112) -- 摘自Oasis官方 Medium
 
-跨链代币及合约如下（仅列举Emerald上的合约地址，源链合约地址及支持的交易所请查看[Wormhole 文档](https://docs.wormholenetwork.com/wormhole/overview-liquid-markets) )
+跨链代币及合约如下（仅列举Emerald上的合约地址，源链合约地址及支持的交易所请查看[Wormhole 文档](https://docs.wormholenetwork.com/wormhole/overview-liquid-markets)
 
 > 请万分注意，需要桥认可的代币才可以跨链后在对端使用。如 BSC 链上的 USDT，需要经过 Pancake 转换成 USDT(wormhole)代币后才可以跨链。
 
@@ -32,7 +32,7 @@ WETH 0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F
 
 ## 二、确认交易信息。
 
-这需要一些ROSE做为gas费用（可以通过上面的CEX转入ROSE），确认之后点击NEXT。
+这需要一些ROSE做为Gas费用（可以通过上面的CEX转入ROSE），确认之后点击NEXT。
 
 ![img](./wormholebridge跨链操作2.png)
 

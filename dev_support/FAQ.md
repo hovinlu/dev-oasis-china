@@ -26,7 +26,7 @@
 
        [https://wallet.oasisprotocol.org/](https://wallet.oasisprotocol.org/)
 
-     - bitpie钱包(app)
+     - Bitpie钱包(app)
 
        [https://bitpie.com](https://bitpie.com)
 
