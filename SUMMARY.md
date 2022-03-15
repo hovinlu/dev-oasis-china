@@ -25,7 +25,7 @@
 - NFT
   - [MetaMirror交易教程](https://medium.com/@little-white/%E5%A6%82%E4%BD%95%E4%BA%A4%E6%98%93ai-rose-nft-12b7a58c10d3)
 - 跨链桥
-  - [Wormole简介及教程](ecosystem_paticipate/bridge/wormhole/Wormhole简介及教程.md)
+  - [Wormhole简介及教程](ecosystem_paticipate/bridge/wormhole/Wormhole简介及教程.md)
   - [cBridge简介及教程](ecosystem_paticipate/bridge/cbridge/cBridge简介及教程.md)
   - [Multichain简介](ecosystem_paticipate/bridge/Multichain/Multichain简介.md)
   - [EVODefi简介及教程](ecosystem_paticipate/bridge/EVODeFi/EVODeFi简介及教程.md)
