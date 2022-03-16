@@ -110,7 +110,7 @@ EVODefi连接Metamask钱包, From选择Ethereum, To选择Oasis, Token选择USDT,
 ### 七、相关社交链接
 [Telegram](https://t.me/valleyswapchat)
 
-[Twwiter](https://twitter.com/ValleySwap)
+[Twitter](https://twitter.com/ValleySwap)
 
 [Discord](https://discord.com/invite/bChB2Vs9SU)
 
