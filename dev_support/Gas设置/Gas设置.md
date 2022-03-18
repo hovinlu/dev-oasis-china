@@ -35,10 +35,12 @@
 Oasis主网内部操作，以及 Oasis 和 Emerald 的交互，均按照 Oasis 主网的设计来进行。
 
 可设置参数：
+
 - Fee Amount：数量单位，可支付的费用总数，单位为 nano ROSE（0.000000001 ROSE ),最低 21000
 - Fee Gas：数量单位，一次执行可以使用的最大gas。如 Gas 数量不足，会导致失败且费用不退
 
 可计算得出：
+
 - Gas Price：Amount / Gas。如 Price 过低，节点会拒绝交易，且费用不退。
 
 ### 3.2、Emerald
@@ -50,6 +52,7 @@ Emerald 使用的与以太坊 Ethereum 同样的 Gas 机制（此处燃料为 RO
 - Gwei：数量单位，1Gwei = 1 nano ROSE（0.000000001 ROSE )
 
 最终成本：
+
 - 实际消耗的Gas（个） * Gas Price（个） = Gwei（个），再转换成 ROSE 数量
 
 如有疑问或错漏，请在[官方群](https://t.me/oasisnetworkchina)里反馈。
