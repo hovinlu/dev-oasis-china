@@ -1,4 +1,8 @@
-# GemKeeper——一个在Oasis网络上的专注于自动做市商 & Defi平台
+# GemKeeper——去中心化交易所 & Defi平台
+
+**GemKeeper**是基于 Oasis 的 EVM 兼容 ParaTime Emerald 构建的去中心化交易所，包括Swap、流动性挖矿和 Bridge（由MultiChain提供支持） 等功能。
+
+
 
 - 更新中。。。
 
