@@ -59,3 +59,7 @@ Gwei：数量单位，1Gwei = 0.000000001 ROSE
 
 最终成本：实际消耗的Gas（个） * Gas Price（个） = Gwei（个数），再转换成 ROSE 个数
 ```
+如有疑问或错漏，请在[官方群](https://t.me/oasisnetworkchina)里反馈。
+  > 作者：moi 2022/03/18
+
+  > 最新编辑：moi 2022/03/18
