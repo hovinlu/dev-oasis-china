@@ -10,7 +10,7 @@
 
 此操作在 Chrome 插件钱包内，具体使用方式可参照[Oasis与Emerald之间的ROSE划转](dev-oasis-china/dev_support/Oasis与Emerald之间的ROSE划转/Oasis与Emerald之间的ROSE划转.md).
 
-在下图中，手动填入Fee Amount 及 Fee Gas，建议 150000000/15000 。
+在下图中，手动填入 **Fee Amount** 及 **Fee Gas**，建议 150000000/15000 。
 
 > 此参数总费用上限为 0.15 ROSE，数值仅供参考，如持续拥堵，可修改 15000 为更大的数值.
 
@@ -35,30 +35,23 @@
 Oasis主网内部操作，以及 Oasis 和 Emerald 的交互，均按照 Oasis 主网的设计来进行。
 
 可设置参数：
-
-```
-Fee Amount：数量单位，想付出的总数，单位为nano ROSE（10^-9 ROSE),最低21000
-
-Fee Gas：数量单位，一次执行可以使用的最大gas
+- Fee Amount：数量单位，想付出的总数，单位为nano ROSE（0.000000001 ROSE),最低21000
+- Fee Gas：数量单位，一次执行可以使用的最大gas
 
 可计算得出：
-
-Gas Price：Amount / Gas，Price过低，节点会拒绝交易，且费用不退。
-```
+- Gas Price：Amount / Gas，Price过低，节点会拒绝交易，且费用不退。
 
 ### 3.2、Emerald
 
 Emerald 使用的与以太坊 Ethereum 同样的 Gas 机制（此处燃料为 ROSE）
 
-```
-Gas Limit：数量单位，想付出的总gas的个数
+- Gas Limit：数量单位，想付出的总gas的个数
+- Gas Price：数量单位，每个gas对应几个Gwei
+- Gwei：数量单位，1Gwei = 0.000000001 ROSE
 
-Gas Price：数量单位，每个gas对应几个Gwei
+最终成本：
+- 实际消耗的Gas（个） * Gas Price（个） = Gwei（个数），再转换成 ROSE 个数
 
-Gwei：数量单位，1Gwei = 0.000000001 ROSE
-
-最终成本：实际消耗的Gas（个） * Gas Price（个） = Gwei（个数），再转换成 ROSE 个数
-```
 如有疑问或错漏，请在[官方群](https://t.me/oasisnetworkchina)里反馈。
   > 作者：moi 2022/03/18
 
