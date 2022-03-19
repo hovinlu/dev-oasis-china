@@ -39,7 +39,7 @@ GemKeeper诞生的初衷是为了解决DeFi所面临的问题，并创造一些�
 #### 1.获取 wROSE、USDC
 
 
-#### 2.添加 wROSE-USDC 流动性
+#### 2.添加 wROSE-USDC LP
 
 
 #### 3.质押 wROSE-USDC LP 到农场
@@ -71,7 +71,7 @@ BLING：未上线
 
 
 
-#### 更新中。。。
+## 更新中。。。
 
 
 
