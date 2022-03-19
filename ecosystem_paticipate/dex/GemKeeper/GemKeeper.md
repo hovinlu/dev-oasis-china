@@ -52,16 +52,34 @@ GemKeeper诞生的初衷是为了解决DeFi所面临的问题，并创造一些�
 这里点击 Confirm Supply ，在钱包中点击确认即可添加成功，如果执行慢可以提高gas fee进行加速
 
 #### 3.质押 wROSE-USDC LP 到农场
+经过上一步的添加LP，可以切换到 Liquidity 中看到如图所示
+
+![](WX20220319-133237@2x.png)
+
+下面将该LP质押到农场来赚取收益，如图所示
+
+![](WX20220319-133402@2x.png)
+
+![](WX20220319-133631@2x.png)
+
+在左侧输入框点击MAX，然后点击Deposit存入，钱包确认即可成功，同理，提取点击Withdraw
 
 
 #### 4.收获 流动性收益
 
+![](WX20220319-133844@2x.png)
+
 
 #### 5.解除 wROSE-USDC LP 质押
+
+![](WX20220319-144608@2x.png)
 
 
 #### 6.移除 wROSE-USDC LP
 
+首先切换到 Liquidity
+
+![](remove-lp.png)
 
 ### 代币合约地址
 BLING：未上线
