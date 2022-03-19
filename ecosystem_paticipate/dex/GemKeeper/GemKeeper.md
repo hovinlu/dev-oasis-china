@@ -6,15 +6,19 @@
 
 ## GemKeeper功能
 - Swap（交换）
+
 在我们的游戏化平台上与我们的自动做市商(AMM)交易所进行无缝交易
 
 - Yield Farming（收益农场）
+
 持有LP代币进入农场，并获得$BLING作为回报
 
 - 即将到来的新特性
+
 我们计划在GemKeeper的旗下添加更多的产品和功能，敬请关注我们的公
 
 - Bridge（跨链桥）
+
 跨链桥由MultiChain、Wormhole提供支持
 
 
