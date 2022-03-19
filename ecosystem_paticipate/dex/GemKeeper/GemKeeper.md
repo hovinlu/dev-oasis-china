@@ -29,6 +29,19 @@ GemKeeper诞生的初衷是为了解决DeFi所面临的问题，并创造一些�
 ### 挖矿
 
 
+### 代币合约地址
+BLING：未上线
+
+### 相关社交链接
+[Telegram](https://t.me/GemKeeperAnnouncements)
+
+[Twitter](https://twitter.com/GemKeeperDeFi)
+
+[Discord](https://discord.com/invite/Jcbj5E9Ysd)
+
+[GemKeeper官网](https://app.gemkeeper.finance)
+
+
 
 
 
