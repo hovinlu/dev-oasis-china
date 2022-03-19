@@ -37,10 +37,17 @@ GemKeeper诞生的初衷是为了解决DeFi所面临的问题，并创造一些�
 - 移除 wROSE-USDC LP
 
 #### 1.获取 wROSE、USDC
+我们可以通过将部分 ROSE 通过DEX功能转换为 wROSE，再将部分 ROSE 转换为USDC，至于如何将ROSE存入钱包中，请参考 [Oasis与Emerald之间的ROSE划转](https://dev-oasis-cn.gitbook.io/support/ji-shu-zhi-chi/oasis-yu-emerald-zhi-jian-de-rose-hua-zhuan)
+
+![](WX20220319-123914@2x.png)
 
 
 #### 2.添加 wROSE-USDC LP
+![](WX20220319-124100@2x.png)
 
+![](WX20220319-132914@2x.png)
+
+![](WX20220319-133058@2x.png)
 
 #### 3.质押 wROSE-USDC LP 到农场
 
