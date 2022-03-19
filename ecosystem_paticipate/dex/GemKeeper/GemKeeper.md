@@ -22,7 +22,8 @@ GemKeeper诞生的初衷是为了解决DeFi所面临的问题，并创造一些�
 
 跨链桥由MultiChain、Wormhole提供支持
 
-|:---|---:
+| 左对齐标题 | 右对齐标题 |
+| :------| ------: |
 |Wormhole | USDT/ROSE|
 |Wormhole | USDT/ Multichain- USDC|
 |Multichain | BUSD/ROSE|
