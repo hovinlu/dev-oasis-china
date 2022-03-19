@@ -27,6 +27,31 @@ GemKeeper诞生的初衷是为了解决DeFi所面临的问题，并创造一些�
 跨链桥由MultiChain、Wormhole提供支持
 
 ### 挖矿
+这里以 wROSE-USDC 为例，共需要以下步骤
+
+- 获取 wROSE、USDC
+- 添加 wROSE-USDC 流动性
+- 质押 wROSE-USDC LP 到农场
+- 收获 流动性收益
+- 解除 wROSE-USDC LP 质押
+- 移除 wROSE-USDC LP
+
+#### 1.获取 wROSE、USDC
+
+
+#### 2.添加 wROSE-USDC 流动性
+
+
+#### 3.质押 wROSE-USDC LP 到农场
+
+
+#### 4.收获 流动性收益
+
+
+#### 5.解除 wROSE-USDC LP 质押
+
+
+#### 6.移除 wROSE-USDC LP
 
 
 ### 代币合约地址
