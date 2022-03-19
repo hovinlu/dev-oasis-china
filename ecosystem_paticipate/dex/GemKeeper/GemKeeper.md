@@ -1,5 +1,6 @@
 # GemKeeper——去中心化交易所 & Defi平台
 
+![](banner.png)
 **GemKeeper**是一个基于Oasis的AMM & DeFi平台。我们的愿景是建立一个一站式的平台来满足我们用户的任何DeFi需求。GemKeeper令牌BLING将是GemKeeper旗下所有产品的基石。
 
 **GemKeeper包括的功能**
