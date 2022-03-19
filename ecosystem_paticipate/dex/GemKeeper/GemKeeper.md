@@ -18,13 +18,18 @@ GemKeeper诞生的初衷是为了解决DeFi所面临的问题，并创造一些�
 
 持有LP代币进入农场，并获得$BLING作为回报
 
+- Bridge（跨链桥）
+
+跨链桥由MultiChain、Wormhole提供支持
+
+- Zap
+
+该功能提供从单币种到 LP 的快捷兑换
+
 - 即将到来的新特性
 
 我们计划在GemKeeper的旗下添加更多的产品和功能，敬请关注我们的公
 
-- Bridge（跨链桥）
-
-跨链桥由MultiChain、Wormhole提供支持
 
 ### 挖矿
 这里以 wROSE-USDC 为例，共需要以下步骤
