@@ -100,8 +100,9 @@ BLING：未上线
 
 [GemKeeper官网](https://app.gemkeeper.finance)
 
+[英文详细文档](https://gemkeeper-finance.gitbook.io/docs/welcome/introduction)
 
-
+[GemKeeper博客](https://gemkeeperdefi.medium.com/)
 
 
 
