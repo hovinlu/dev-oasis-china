@@ -81,6 +81,8 @@ GemKeeper诞生的初衷是为了解决DeFi所面临的问题，并创造一些�
 
 ![](remove-lp.png)
 
+移除成功后会钱包会收到一定数量的 wROSE 和 USDC
+
 ### 代币合约地址
 BLING：未上线
 
