@@ -24,23 +24,13 @@ GemKeeper诞生的初衷是为了解决DeFi所面临的问题，并创造一些�
 
    
 桥|LP
---|:--:
-刘备|哭
-关羽|打
-张飞|骂
-
-
-   Wormhole | USDT/ROSE
-
-   Wormhole | USDT/ Multichain- USDC
-
-   Multichain | BUSD/ROSE
-
-   Multichain | LINK/ROSE
-
-   Multichain | USDC/ROSE
-
-   Multichain | BNB/ROSE
+--|:-
+Wormhole | USDT/ROSE
+Wormhole | USDT/ Multichain- USDC
+Multichain | BUSD/ROSE
+Multichain | LINK/ROSE
+Multichain | USDC/ROSE
+Multichain | BNB/ROSE
 
 
 - Zap
