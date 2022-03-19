@@ -18,7 +18,7 @@ GemKeeper诞生的初衷是为了解决DeFi所面临的问题，并创造一些�
 
 持有LP代币进入农场，并获得$BLING作为回报
 
-- Bridge（跨链桥）
+- Bridge（跨链桥）[How it Works](https://gemkeeper-finance.gitbook.io/docs/gem-keeper/bridge)
 
 跨链桥由MultiChain、Wormhole提供支持，以下是GemKeeper中的桥币所对应的桥
 
