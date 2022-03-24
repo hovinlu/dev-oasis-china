@@ -19,7 +19,7 @@ GemKeeper诞生的初衷是为了解决DeFi所面临的问题，并创造一些�
 
 - Bridge（跨链桥）[How it Works](https://gemkeeper-finance.gitbook.io/docs/gem-keeper/bridge)
 
-跨链桥由MultiChain、Wormhole提供支持，以下是GemKeeper中的桥币所对应的桥
+跨链桥由MultiChain、Wormhole提供支持，以下是GemKeeper中桥资产所对应的合约地址
 
 | Token | Address |
 | ----| ---- |
