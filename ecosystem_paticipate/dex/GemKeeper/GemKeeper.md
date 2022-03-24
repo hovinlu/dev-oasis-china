@@ -2,7 +2,6 @@
 
 ![](banner.png)
 
-### GemKeeper介绍
 **GemKeeper**是一个基于Oasis的AMM & DeFi平台。我们的愿景是建立一个一站式的平台来满足我们用户的任何DeFi需求。GemKeeper令牌BLING将是GemKeeper旗下所有产品的基石。
 
 **GemKeeper**由PeckShield审计([报告](https://github.com/GemKeeperDEV/GemKeeperFinance/blob/main/PeckShield-Audit-Report-GemKeeper-v1.0.pdf)) ，由0xDiamond和Azer创立于2022年1月
