@@ -41,14 +41,17 @@
 这个步骤问题很多，一般都会出错，<mark style="color:red;">**这也就是本教程出现的意义**</mark>。
 
 > 注意，账单需满足三个条件：
->
 > * 需包含姓名、住址的个人信息
 > * 需体现你的消费记录凭证，如水电费、京东账单、打车发票（包含住址的个人发票）
 > * 账单有效期为三个月以内
 
 * 如果有三个月内的水费、电费账单，那么按要求选择对应的 `electricity bill` 或 `water bill` 正常操作即可
 * 有些小伙伴由于某些原因没有上面提到的账单信息。那么也可以通过其他方式验证居住认证的。如京东订单截图，或者滴滴打车美团打车个人发票，申请发票的时候填好自己的住址就好了（我用的是打车发票）。\
-  <mark style="color:yellow;">**这里要选**</mark><mark style="color:yellow;">** **</mark><mark style="color:yellow;">**`bank bill`**</mark><mark style="color:yellow;">**  **</mark><mark style="color:yellow;">**! 我选择**</mark><mark style="color:yellow;">**`internet bill`**</mark><mark style="color:yellow;">**，就会出错。**</mark>\ <mark style="color:yellow;">**这里要选**</mark><mark style="color:yellow;">** **</mark><mark style="color:yellow;">**`bank bill`**</mark><mark style="color:yellow;">**  **</mark><mark style="color:yellow;">**! 我选择**</mark><mark style="color:yellow;">**`internet bill`**</mark><mark style="color:yellow;">**，就会出错。**</mark>\ <mark style="color:yellow;">**这里要选**</mark><mark style="color:yellow;">** **</mark><mark style="color:yellow;">**`bank bill`**</mark><mark style="color:yellow;">**  **</mark><mark style="color:yellow;">**! 我选择**</mark><mark style="color:yellow;">**`internet bill`**</mark><mark style="color:yellow;">**，就会出错。**</mark>
+  > 这里要选 `bank bill` !,我选择`internet bill` ，就会出错。
+
+  > 这里要选 `bank bill` !,我选择`internet bill` ，就会出错。
+  
+  > 这里要选 `bank bill` !,我选择`internet bill` ，就会出错。
 
 ## 最后
 
