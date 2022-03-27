@@ -11,19 +11,20 @@
 
 2. 点击 **Create your free account** 按钮进行注册
    
-   ![](<assets/image (4).png>)
-   
+
+![](assets/image4.png)
+
 3. 输入您的名(FIRSTNAME)和姓(LASTNAME)、以及邮箱，点击 **Create** 按钮创建账号，稍后您的邮箱会收到验证码
 
-   ![create](.\assets\create.jpg)
+![](.\assets\create.jpg)
 
 4. 填入邮箱验证码，点击 **Confirm** 即完成注册和登录
 
-   ![create](.\assets\mail.jpg)
+![](.\assets\mail.jpg)
 
 5. 登录成功后，需等待后台同意才能进入KYC认证，该过程大约需要1-2天
 
-   ![](<assets/image (3).png>)
+![](<assets/image3.png>)
 
 ## 三、认证过程
 
@@ -32,7 +33,7 @@
 - 此过程分为三个步骤，分别是：人脸认证、身份认证、居住认证
 
 
-![](<./assets/image (2).png>)
+![](assets/image3.png)
 
 1.  人脸认证
 
@@ -44,10 +45,10 @@
 
      选择 **中国**，然后选择 **\[National ID]**，上传清晰的身份证正反面照片，然后等待管理员审核即可
 
-   ![](<assets/image (1).png>)
-   
+![](assets/image1.png)
+
    > 上传的时候注意正面和反面，Front side为正面(即人像面)，Back side为反面
-   
+
 3.  居住认证
 
     - 居住认证需要您上传您的居住、消费或金融方面信息，可以上传消费账单、银行账单、网约车发票(开票时备注姓名、住址)，电商发票(开票时备注姓名、住址), 水电费单据
