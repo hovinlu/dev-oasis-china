@@ -59,6 +59,6 @@
 
 > 最后更新：2022/03/26
 
-## 五、参考
+## 参考
 * [Oasis: 一图搞定KYC | 三步申领你的 ROSE 奖励！](https://mp.weixin.qq.com/s/zGXMgi_yB5_mo-uRnoW8yQ)
 * [知乎: 如何快速通过Oasis的kyc？](https://www.zhihu.com/question/464082940)
