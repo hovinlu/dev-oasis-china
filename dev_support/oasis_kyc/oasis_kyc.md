@@ -2,56 +2,68 @@
 
 ## 一、背景
 
-当参加一些Oasis官方活动时，要求要完成KYC认证，这里出一份教程避免大家踩坑。
+随着Oasis社区生态进一步繁荣发展，各项活动异彩纷呈，很多用户也通过参与我们各种类型的黑客松、大使计划、社区传播等活动获得了ROSE代币奖励。
+根据合规性要求，获得ROSE代币之前，用户必须完成KYC认证。
 
 ## 二、注册账号
 
-1. 登陆网址 [https://oasis-network-individual.synaps.io/login?returnUrl=%2F](https://oasis-network-individual.synaps.io/login?returnUrl=%2F)&#x20;
-2. 点击 `Create your free account` 按钮进行注册\
+1. **Oasis KYC认证入口**: [https://oasis-network-individual.synaps.io/login?returnUrl=%2F](https://oasis-network-individual.synaps.io/login?returnUrl=%2F)&#x20;
+
+2. 点击 **Create your free account** 按钮进行注册
+   
    ![](<assets/image (4).png>)
-3. 填写必要的信息，点击 `Create` 按钮创建账号
-4. 填入邮箱验证码，点击 `Confirm` 确认。
-5. 接下来会等待Oasis Network去验证你的请求。这个过程大约需要1\~2天。\
+   
+3. 输入您的名(FIRSTNAME)和姓(LASTNAME)、以及邮箱，点击 **Create** 按钮创建账号，稍后您的邮箱会收到验证码
+
+   ![create](.\assets\create.jpg)
+
+4. 填入邮箱验证码，点击 **Confirm** 即完成注册和登录
+
+   ![create](.\assets\mail.jpg)
+
+5. 登录成功后，需等待后台同意才能进入KYC认证，该过程大约需要1-2天
+
    ![](<assets/image (3).png>)
 
 ## 三、认证过程
 
-> 注意：该过程请在移动端操作，否则可能无法时候摄像头等设备。如果显示 `pending` 就说明需要等人审核，耐心呆一会就好了
+> 注意：人脸认证请在移动端操作，否则可能无法使用摄像头。如果显示 **pending** 就说明需要等待人工审核，耐心等待即可
 
-此过程分为三个步骤，分别是：人脸认证、身份认证、居住认证。
+- 此过程分为三个步骤，分别是：人脸认证、身份认证、居住认证
+
 
 ![](<./assets/image (2).png>)
 
-### 1. 人脸认证
+1.  人脸认证
 
-> 按要求操作就好了，一般不都不会在这步骤出现问题
+   - 按要求操作即可
 
-### 2. 身份认证
+2. 身份认证
 
-这个步骤可以通过护照和身份证，这里以身份证（\[National ID]）为例。
+   - 即上传能证明您身份的证件，护照、身份证均可，以身份证为例：
 
-选择 `China`，选择 `National ID` ，  然后上传身份证的正反面两张照片。
+     选择 **中国**，然后选择 **\[National ID]**，上传清晰的身份证正反面照片，然后等待管理员审核即可
 
-![](<assets/image (1).png>)
+   ![](<assets/image (1).png>)
+   
+   > 上传的时候注意正面和反面，Front side为正面(即人像面)，Back side为反面
+   
+3.  居住认证
 
-> 注意：上传的身份证分为正面和反面，我传的时候没注意导致重新传了好多次。
+    - 居住认证需要您上传您的居住、消费或金融方面信息，可以上传消费账单、银行账单、网约车发票(开票时备注姓名、住址)，电商发票(开票时备注姓名、住址), 水电费单据
 
-### 3. 居住认证
+    - 核心点：
 
-这个步骤问题很多，一般都会出错，<mark style="color:red;">**这也就是本教程出现的意义**</mark>。
+      1. 包含姓名和住址的个人信息
 
-> 注意，账单需满足三个条件：
-> * 需包含姓名、住址的个人信息
-> * 需体现你的消费记录凭证，如水电费、京东账单、打车发票（包含住址的个人发票）
-> * 账单有效期为三个月以内
+      2. 账单需要在三个月内，逾期则不予通过
 
-* 如果有三个月内的水费、电费账单，那么按要求选择对应的 `electricity bill` 或 `water bill` 正常操作即可
-* 有些小伙伴由于某些原因没有上面提到的账单信息。那么也可以通过其他方式验证居住认证的。如京东订单截图，或者滴滴打车美团打车个人发票，申请发票的时候填好自己的住址就好了（我用的是打车发票）。
-  > 这里要选 `bank bill` !，我选择`internet bill` ，就会出错。
+      3. 选对账单分类，电费：electricity bill；水费：water bill；电商或网约车发票(推荐)：internet bill；银行：bank bill
 
-## 四、最后
+## 四、完成认证
 
-当三个步骤都为 `Verified` 即表示KYC成功了。
+- 当三个步骤都显示为 **Verified** 即表示KYC
+
 
 ![](assets/image.png)
 
@@ -59,4 +71,5 @@
 * [Oasis: 一图搞定KYC | 三步申领你的 ROSE 奖励！](https://mp.weixin.qq.com/s/zGXMgi_yB5_mo-uRnoW8yQ)
 * [知乎: 如何快速通过Oasis的kyc？](https://www.zhihu.com/question/464082940)
 
-*作者：evan, 最后更新：2022/03/26*
+> 作者: evan 2022/03/26
+> 最新编辑: White 2022/03/27
