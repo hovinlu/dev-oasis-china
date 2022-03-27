@@ -53,4 +53,8 @@
 
 当三个步骤都为 `Verified` 即表示KYC成功了。
 
-![](assets/image.png)\
+![](assets/image.png)
+
+> 作者：evan 
+
+> 最后更新：2022/03/26

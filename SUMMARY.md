@@ -13,6 +13,7 @@
 - [Emerald提币到交易所失败的解决方法](./dev_support/Emerald提币到币安失败解决方法.md)
 - [Oasis与Emerald之间的ROSE划转](./dev_support/Oasis与Emerald之间的ROSE划转/Oasis与Emerald之间的ROSE划转.md)
 - [Bitpie钱包转移到官方钱包](./dev_support/BitPie钱包转移到官方钱包.md)
+- [Oasis KYC 教程](./dev-oasis-china/dev_support/oasis-kyc/oasis-kyc.md)
 - [FAQ](./dev_support/FAQ.md)
 
 ### 生态参与
