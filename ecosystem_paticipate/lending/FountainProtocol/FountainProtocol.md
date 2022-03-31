@@ -1,8 +1,8 @@
 # 喷泉协议-去中心化跨链借贷平台
 
-喷泉协议 **Fountain Protocol** 是第一个由 Oasis 提供支持的去中心化跨链借贷平台，该协议使用户能够体验高资本效率，具有杠杆交易、跨链借贷的特点。用户可以在平台上存入、借入资产并赚取利息，借款人以超额抵押的方式借款，存款人为协议提供流动性来获得被动收益。
+喷泉协议**Fountain Protocol**是第一个由Oasis提供支持的去中心化跨链借贷平台，该协议使用户能够体验高资本效率，具有杠杆交易、跨链借贷的特点。用户可以在平台上存入、借入资产并赚取利息，借款人以超额抵押的方式借款，存款人为协议提供流动性来获得被动收益。
 
-喷泉协议由PeckShield和Verilog团队审计([报告](https://github.com/dev-fountain/fountain-protocol-audit))，并于 2022/02/28 正式上线 Emerald。
+喷泉协议由PeckShield和Verilog团队审计([报告](https://github.com/dev-fountain/fountain-protocol-audit))，并于2022/02/28正式上线Emerald。
 
 ## 操作指南
 
@@ -18,7 +18,7 @@
 
    代币可以为ROSE(由主网转入Emerald，或者通过YuzuSwap交易获得)、ETH\USDT\USDC(Womehole跨链桥转入)，需注意保持一定数量的ROSE作为gas。跨链后的[代币合约地址](#wu-dai-bi-he-yue-di-zhi)见文末。
 
-2. #### 连接 MetaMask 钱包
+2. #### 连接MetaMask钱包
 
    添加Emerald RPC
 
@@ -33,7 +33,7 @@
 
 3. #### 存入资产
 
-   此处以ROSE为例，在顶栏中选择**Markets**标签页，下方选择**SUPPLY**标签页，选择对应的代币数量，点击下方 SUPPLY按钮，经过MetaMask钱包授权、交易后，完成存入。
+   此处以ROSE为例，在顶栏中选择**Markets**标签页，下方选择**SUPPLY**标签页，选择对应的代币数量，点击下方SUPPLY按钮，经过MetaMask钱包授权、交易后，完成存入。
 
    - 可以自己选择“安全”比例来方便的进入代币数量的输入
    
@@ -122,5 +122,4 @@ ETH:0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F
 - [Fountain Protocol推特@fountainprot](https://twitter.com/fountainprot)
 - [Fountain Protocol官网](https://ftp.cash/home)
 
->作者：moi 2022/03/02
->最新编辑：white 2022/03/10
+>作者：moi 2022/03/02 最新编辑：white 2022/03/10

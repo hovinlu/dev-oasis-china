@@ -36,7 +36,7 @@
      
    - Emerald Mainnet钱包
 
-     - MetaMask, RPC地址见1.
+     - MetaMask,RPC地址见1.
 
 4. 查看账户余额（当主网钱包不可用时，可用如下地址查询）
 
