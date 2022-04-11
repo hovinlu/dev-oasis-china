@@ -4,6 +4,8 @@
 
 ## 2022
 
+- 2022/04/11 [Oasis网络进行Damask升级](https://docs.oasis.dev/general/run-a-node/upgrade-log/#2022-04-11-900-utc---damask-upgrade) - 本次升级中ParaTime交易处理传输通道被重新设计，以避免增加网络拥堵。此外，验证者数量将从110增加到120。 
+
 - 2022/03/11 [Oasis Bloom黑客松来袭！](https://twitter.com/OasisNetwork_CN/status/1502090615005540352) - 在Oasis上构建DeFi或P2E游戏DApp，分享200,000美元并获得Oasis社区、网络和生态系统的支持。
 
 - 2022/03/04 [首个跨链借贷平台 Fountain 协议已上线 Oasis 主网](https://twitter.com/OasisNetwork_CN/status/1499266290246365184?s=20&t=cD34YlnVU4hmkai0jJ7Svw) - Fountain协议具有杠杆交易、跨链借贷的特点。用户可以在平台上存入、借入资产并赚取利息，借款人以超额抵押的方式借款，存款人为协议提供流动性来获得被动收益。
