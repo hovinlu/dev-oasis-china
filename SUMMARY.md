@@ -22,7 +22,8 @@
 - [质押](./ecosystem_paticipate/质押.md)
 - DEX
   - [YuzuSwap介绍](./ecosystem_paticipate/dex/yuzuswap/YuzuSwap介绍.md)
-  - [YuzuSwap挖矿教程](https://medium.com/@little-white/yuzu-%E6%8C%96%E7%9F%BF%E6%94%BB%E7%95%A5-f192ff18b9a1)
+    - [YuzuSwap挖矿教程](https://medium.com/@little-white/yuzu-%E6%8C%96%E7%9F%BF%E6%94%BB%E7%95%A5-f192ff18b9a1)
+    - [xYUZU介绍及注意事项](./ecosystem_paticipate/dex/yuzuswap/xYUZU介绍及注意事项.md)
   - [ValleySwap介绍](./ecosystem_paticipate/dex/ValleySwap/ValleySwap.md)
   - [GemKeeper介绍](./ecosystem_paticipate/dex/GemKeeper/GemKeeper.md)
 - NFT
