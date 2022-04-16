@@ -99,7 +99,8 @@ GemKeeper诞生的初衷是为了解决DeFi所面临的问题，并创造一些�
 移除成功后会钱包会收到一定数量的wROSE和USDC
 
 ### 代币合约地址
-BLING：未上线（预计4月份上线）
+BLING：0x72Ad551af3c884d02e864B182aD9A34EE414C36C
+总量：100,000,000
 
 ### 相关社交链接
 [Telegram](https://t.me/GemKeeperAnnouncements)
