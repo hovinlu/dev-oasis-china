@@ -26,8 +26,8 @@
     - [xYUZU介绍及注意事项](./ecosystem_paticipate/dex/yuzuswap/xYUZU介绍及注意事项.md)
   - [ValleySwap介绍](./ecosystem_paticipate/dex/ValleySwap/ValleySwap.md)
   - [GemKeeper介绍](./ecosystem_paticipate/dex/GemKeeper/GemKeeper-Introduce.md)
-    - [GemKeeper挖矿](./dex/GemKeeper/gemkeeper-mining.md)
-    - [xBLING介绍](./dex/GemKeeper/xBLING-Introduce.md)
+    - [GemKeeper挖矿](./ecosystem_paticipate/dex/GemKeeper/gemkeeper-mining.md)
+    - [xBLING介绍](./ecosystem_paticipate/dex/GemKeeper/xBLING-Introduce.md)
 - NFT
   - [MetaMirror交易教程](https://medium.com/@little-white/%E5%A6%82%E4%BD%95%E4%BA%A4%E6%98%93ai-rose-nft-12b7a58c10d3)
 - 跨链桥
