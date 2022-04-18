@@ -30,13 +30,15 @@ BLING 代币可以作为 xBLING AKA GemKeeper Spell（类似于 xSUSHI AKA Sushi
 
 ![](./xBLING/WX20220418-125708@2x.png)
 
-图二所示，刚刚我质押了5个BLING，这里只收到 4.85 个xBLING，这是因为 1 xBLING = 1.0308 BLING，随着质押时间越久，1 个xBLING将能兑换更多的 BLING 。在撰写文章的前一天apr能达到1000%，目前下降了很多；
+图二所示，刚刚我质押了5个BLING，这里只收到 4.85 个xBLING，这是因为撰写本文时 1 xBLING = 1.0308 BLING ***（发布当天是1:1 的比例）***，随着质押时间越久，1 个xBLING将能兑换更多的 BLING 。在撰写文章的前一天apr能达到1000%，目前下降了很多；
 
 ### 解释：
 对于交易所的每次交换，0.05% 的交换费用将按照 BLING 的形式分配，与您在 GemKeeper Spell 中的份额成正比。当您的 BLING 被质押到 GemKeeper Spell 中时，您将收到 xBLING 以换取投票权和可以与其他协议交互的完全可组合的代币。
 xBLING 会每一天复利一次，所以当您质押时不会立刻看到收益；
 
-当您取消质押时，您将收到所有最初存入的 BLING 以及额外的 BLING 收益。
+当您取消质押时，将按照当日 xBLING 兑 BLING的比例收到对应数量的 BLING。
+
+^_^ ^_^
 
 
 > 作者：胜军哥 更新时间：2022/4/18
