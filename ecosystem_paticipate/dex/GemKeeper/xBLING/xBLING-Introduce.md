@@ -22,7 +22,8 @@
 >
 > 每个 xBLING 每年获得约 0.01$ 的交易费用
 > 
-> 引用自 https://gemkeeperdefi.medium.com/new-chapter-gemkeeper-finance-bf1185c4f18b
+>
+> [参考链接](https://gemkeeperdefi.medium.com/new-chapter-gemkeeper-finance-bf1185c4f18b)
 
 ### BLING 质押
 
