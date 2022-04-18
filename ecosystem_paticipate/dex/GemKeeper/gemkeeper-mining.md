@@ -78,6 +78,5 @@ BLING：0x72Ad551af3c884d02e864B182aD9A34EE414C36C
 [更多细节参考-英文文档](https://gemkeeper-finance.gitbook.io/docs/welcome/introduction)
 
 
-> 更新中...
 
 > 作者：胜军哥 更新时间：2022/3/24
