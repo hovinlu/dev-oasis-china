@@ -6,7 +6,7 @@
 
 ### GemKeeper 新功能 xBLING 单币质押介绍
 
-BLING 代币可以作为 xBLING AKA GemKeeper Spell（类似于 xSUSHI AKA Sushi Bar）质押，并赚取整个协议 1/6 的交易费用。 没错，BLING 代币持有者将通过质押，作为 xBLING 持有者获得部分收入，直接受益于协议 TVL 和交易量的增长，为 BLING 代币创建理论价格下限提供了基础。
+对于交易所的每次交换，0.05% 的交换费用将按照 BLING 的形式分配，与您在 GemKeeper Spell 中的份额成正比，当您的 BLING 被质押到 GemKeeper Spell 中时，您将收到 xBLING 以换取投票权和可以与其他协议交互的完全可组合的代币。
 
 计算方式如下：
 
@@ -14,13 +14,15 @@ BLING 代币可以作为 xBLING AKA GemKeeper Spell（类似于 xSUSHI AKA Sushi
 > 
 > xBling 奖励 = 0.0005
 > 
-> 上周交易量 = 2,252,107 美元
+> 上周交易量 = $2,252,107
 > 
-> 预计年交易量 = $2,252,107*52 = $117,109,564 >
-> 投资回报率/xBLING= 117,109,564 美元*0.0005 = 58554.78/6,000,000 美元
+> 预计年交易量 = $2,252,107*52 = $117,109,564 
 > 
-> BLING = 每年约 0.01 美元/xBLING 
-
+> 投资回报率/xBLING = $117,109,564*0.0005 = 58554.78/6,000,000 ≈ 0.0097
+>
+> 每个 xBLING 每年获得约 0.01$ 的交易费用
+> 
+> 引用自 https://gemkeeperdefi.medium.com/new-chapter-gemkeeper-finance-bf1185c4f18b
 
 ### BLING 质押
 
@@ -37,7 +39,7 @@ BLING 代币可以作为 xBLING AKA GemKeeper Spell（类似于 xSUSHI AKA Sushi
 
 图二所示，刚刚我质押了5个BLING，这里只收到 4.85 个xBLING，这是因为撰写本文时 1 xBLING = 1.0308 BLING ***（发布当天是1:1 的比例）***，随着质押时间越久，1 个xBLING将能兑换更多的 BLING 。在撰写文章的前一天apr能达到1000%，目前下降了很多；
 
-### 解释：
+### 解释
 对于交易所的每次交换，0.05% 的交换费用将按照 BLING 的形式分配，与您在 GemKeeper Spell 中的份额成正比。当您的 BLING 被质押到 GemKeeper Spell 中时，您将收到 xBLING 以换取投票权和可以与其他协议交互的完全可组合的代币。
 xBLING 会每一天复利一次，所以当您质押时不会立刻看到收益；
 
