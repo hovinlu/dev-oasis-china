@@ -4,6 +4,8 @@
 
 ## 2022
 
+- 2022/04/20 [Oasis Protocol成为BGameAlliance赞助商](https://twitter.com/oasisprotocol/status/1516679978595004418) - 加入@BGameAlliance大家庭并帮助Oasis Network上的独特游戏。
+
 - 2022/04/11 [Oasis网络进行Damask升级](https://medium.com/@OasisNetworkCN/oasis-%E7%BD%91%E7%BB%9C%E5%B0%86%E4%BA%8E4%E6%9C%8811%E6%97%A5%E8%BF%9B%E8%A1%8Cdamask%E5%8D%87%E7%BA%A7-%E6%8A%95%E7%A5%A8%E8%8E%B7%E5%BE%9788-%E6%94%AF%E6%8C%81-6232474cdff6) - 本次升级中ParaTime交易处理传输通道被重新设计，以避免增加网络拥堵。此外，验证者数量将从110增加到120。 
 
 - 2022/03/11 [Oasis Bloom黑客松来袭！](https://twitter.com/OasisNetwork_CN/status/1502090615005540352) - 在Oasis上构建DeFi或P2E游戏DApp，分享200,000美元并获得Oasis社区、网络和生态系统的支持。
@@ -11,11 +13,11 @@
 - 2022/03/04 [首个跨链借贷平台 Fountain 协议已上线 Oasis 主网](https://twitter.com/OasisNetwork_CN/status/1499266290246365184?s=20&t=cD34YlnVU4hmkai0jJ7Svw) - Fountain协议具有杠杆交易、跨链借贷的特点。用户可以在平台上存入、借入资产并赚取利息，借款人以超额抵押的方式借款，存款人为协议提供流动性来获得被动收益。
 
 - 2022/03/02 [Oasis计划在2个月内提供超过250万美元的资金来支持OASIS网络生态中的的初创公司](https://medium.com/oasis-protocol-project/weve-offered-more-than-2-5-758bfd726af)-
-以在Oasis上构建下一代web3 DApps
+以在Oasis上构建下一代web3 DApps。
 
 - 2022/02/26 [GemKeeper加入Oasis 网络](https://medium.com/@OasisNetworkCN/gemkeeper%E5%8A%A0%E5%85%A5oasis-%E7%BD%91%E7%BB%9C-%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%8E%A8%E5%8A%A8defi%E5%8F%91%E5%B1%95-366e5be84f66) - GemKeeper DEX支持标准AMM功能，通过激励Wormhole和Multichain桥接的各种代币，GemKeeper使所有顶级第1层区块链中最受欢迎的加密资产能够进入Oasis并开始赚取收益。
 
-- 2022/02/22 [Autofarm宣布与Oasis Protocol集成](https://medium.com/autofarm-network/autofarm-integrates-with-oasis-protocol-d7b1369bc605) - Oasis生态中第一个收益聚合器
+- 2022/02/22 [Autofarm宣布与Oasis Protocol集成](https://medium.com/autofarm-network/autofarm-integrates-with-oasis-protocol-d7b1369bc605) - Oasis生态中第一个收益聚合器。
 
 - 2022/02/17 [WePiggy 正式上线 Oasis](https://medium.com/@OasisNetworkCN/wepiggy-%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF-oasis-%E6%8E%A8%E5%87%BA%E5%80%9F%E8%B4%B7%E5%B8%82%E5%9C%BA-%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%8E%A8%E5%8A%A8-oasis-%E5%BC%80%E6%8B%93%E6%9B%B4%E5%B9%BF%E9%98%94-defi-1bbdec9f1278) - 推出借贷市场，进一步推动Oasis开拓更广阔DeFi
 
