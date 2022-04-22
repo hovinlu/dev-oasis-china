@@ -4,7 +4,7 @@
 
 ## 2022
 
-- 2022/04/20 [Oasis Protocol成为BGameAlliance赞助商](https://twitter.com/oasisprotocol/status/1516679978595004418) - 加入@BGameAlliance大家庭并帮助Oasis Network上的独特游戏。
+- 2022/04/20 [Oasis正式加入Blockchain Game Alliance生态](https://twitter.com/oasisprotocol/status/1516679978595004418) - 加入@BGameAlliance大家庭并帮助Oasis Network上的独特游戏。
 
 - 2022/04/11 [Oasis网络进行Damask升级](https://medium.com/@OasisNetworkCN/oasis-%E7%BD%91%E7%BB%9C%E5%B0%86%E4%BA%8E4%E6%9C%8811%E6%97%A5%E8%BF%9B%E8%A1%8Cdamask%E5%8D%87%E7%BA%A7-%E6%8A%95%E7%A5%A8%E8%8E%B7%E5%BE%9788-%E6%94%AF%E6%8C%81-6232474cdff6) - 本次升级中ParaTime交易处理传输通道被重新设计，以避免增加网络拥堵。此外，验证者数量将从110增加到120。 
 
