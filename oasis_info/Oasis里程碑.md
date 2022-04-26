@@ -4,7 +4,7 @@
 
 ## 2022
 
-- 2022/04/26 [Coinbase 增加对 Oasis (ROSE) 的支持](https://twitter.com/CoinbaseAssets/status/1518620620082356225) - 交易将于太平洋时间4月26日星期二上午9点或之后开始。
+- 2022/04/26 [Coinbase 增加对 Oasis (ROSE) 的支持](https://twitter.com/CoinbaseAssets/status/1518620620082356225) - Coinbase成立于2012年，美国比特币和其他数字货币交易平台。
 
 - 2022/04/20 [Oasis正式加入Blockchain Game Alliance生态](https://twitter.com/oasisprotocol/status/1516679978595004418) - 加入@BGameAlliance大家庭并帮助Oasis Network上的独特游戏。
 
