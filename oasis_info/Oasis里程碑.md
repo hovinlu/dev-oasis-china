@@ -4,6 +4,8 @@
 
 ## 2022
 
+- 2022/05/14 [拥有3.77亿美元TVL的DeFi项目 Beefy 正式加入OasisNetwork](https://twitter.com/beefyfinance/status/1525286820149440513) - Beefy是一个多链收益优化器，专注于安全性并自动组合加密资产以获得最佳APY。
+
 - 2022/05/07 [XDAO携手Oasis | 推出首个多签钱包，降低用户风险](https://medium.com/@OasisNetworkCN/xdao%E6%90%BA%E6%89%8Boasis-%E6%8E%A8%E5%87%BA%E9%A6%96%E4%B8%AA%E5%A4%9A%E7%AD%BE%E9%92%B1%E5%8C%85-%E9%99%8D%E4%BD%8E%E7%94%A8%E6%88%B7%E9%A3%8E%E9%99%A9-91bcbcc3b691) - XDAO在Oasis网络上推出了第一个多重签名（Multi-Sig）钱包！多重签名钱包可以降低用户的使用风险，这是许多区块链项目的关键安全功能。 
 
 - 2022/05/07 [与@EthGlobal合作参加了今年的 Hackmoney Hackathon](https://twitter.com/OasisNetwork_CN/status/1522867856479637504) - 提供 4,000 美元并支持在 Oasis 网络上为一位幸运的获胜者构建 dApp！
