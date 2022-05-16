@@ -28,6 +28,8 @@
   - [GemKeeper介绍](./ecosystem_paticipate/dex/GemKeeper/GemKeeper-Introduce.md)
     - [GemKeeper挖矿](./ecosystem_paticipate/dex/GemKeeper/gemkeeper-mining.md)
     - [xBLING介绍](./ecosystem_paticipate/dex/GemKeeper/xBLING/xBLING-Introduce.md)
+  - [Beefy去中心化多链收益优化平台](./ecosystem_paticipate/dex/Beefy/Beefy.md)
+
 - NFT
   - [MetaMirror交易教程](https://medium.com/@little-white/%E5%A6%82%E4%BD%95%E4%BA%A4%E6%98%93ai-rose-nft-12b7a58c10d3)
 - 跨链桥
