@@ -4,6 +4,8 @@
 
 ## 2022
 
+- 2022/05/17 [Genetica和Oasis Labs，在旧金山宣布更进一步的合作关系并举行了独家仪式](https://medium.com/@OasisNetworkCN/%E8%8E%B7%E8%B6%8A%E5%8D%97%E6%80%BB%E7%90%86%E5%92%8C%E6%94%BF%E5%BA%9C%E6%94%AF%E6%8C%81-oasis-labs%E6%90%BA%E6%89%8Bgenetica%E6%9E%84%E5%BB%BA%E7%B2%BE%E5%87%86%E5%8C%BB%E7%96%97%E6%9C%8D%E5%8A%A1-dd9f9c6b7d17) - Genetica是亚太地区领先的基因科技公司，越南总理和其他部长及政府官员参与了本次仪式，并表示对越南发展成为Web3领域的全球领导者感到非常兴奋。
+
 - 2022/05/12 [绿洲生态系统基金达到 2.35 亿美元](https://twitter.com/OasisProtocol/status/1526548398148550664?s=20&t=P3ONCAvklWzTrg1T4j2NYw) - Oasis 生态系统基金继续快速扩张，包括 Newman Capital、Seven X Ventures 等各种新投资者追加 3500 万美元
 
 - 2022/05/14 [拥有3.77亿美元TVL的DeFi项目 Beefy 正式加入OasisNetwork](https://twitter.com/beefyfinance/status/1525286820149440513) - Beefy是一个多链收益优化器，专注于安全性并自动组合加密资产以获得最佳APY。
