@@ -15,6 +15,8 @@ Beefy提供金库、Lanuchpool、模块化智能合约的金库策略。
 
 打开操作界面 [https://app.beefy.com/](https://app.beefy.com/) 选择最右侧的 Oasis链,可以看到下方的5个金库。
 
+**PS:2022/05/26 新增USDC/USDT LP 稳定币流动对**
+
 ![](beefy_1.jpg)
 
 金库显示如下信息
