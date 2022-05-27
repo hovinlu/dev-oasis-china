@@ -1,6 +1,6 @@
 # MetaMirror
 
-# 一、简介
+## 一、简介
 
 MetaMirror为Oasis Emerald上首个NFT市场。2021年12月15日，宣布推出AI ROSE系列NFT。作为基于Oasis网络构建的第一个NFT系列，AI ROSE NFT由999张AI生成的玫瑰图像组成。后续已上架10几种NFT。
 
