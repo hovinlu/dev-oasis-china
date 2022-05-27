@@ -31,7 +31,7 @@
   - [Beefy去中心化多链收益优化平台](./ecosystem_paticipate/dex/Beefy/Beefy.md)
 
 - NFT
-  - [MetaMirror交易教程](ecosystem_paticipate/nft/MetaMirror.md)
+  - [MetaMirror](ecosystem_paticipate/nft/MetaMirror.md)
 - 跨链桥
   - [Wormhole简介及教程](ecosystem_paticipate/bridge/wormhole/Wormhole简介及教程.md)
   - [cBridge简介及教程](ecosystem_paticipate/bridge/cbridge/cBridge简介及教程.md)
