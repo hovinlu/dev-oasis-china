@@ -40,6 +40,8 @@
    - 可以在存入时，选择是否直接当作抵押品(如果此处不抵押，可以借入操作时再处理)
    
    - 如果是第一次操作，需进行授权、交易共两步
+
+   - 现已支持LP代币质押、借入
    
 
 ![](ftp1.jpg)
@@ -122,4 +124,6 @@ ETH:0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F
 - [Fountain Protocol推特@fountainprot](https://twitter.com/fountainprot)
 - [Fountain Protocol官网](https://ftp.cash/home)
 
->作者：moi 2022/03/02 最新编辑：white 2022/03/10
+> 作者：moi 2022/03/02
+
+> 最新编辑：moi 2022/05/31 -- 补充LP代币质押
